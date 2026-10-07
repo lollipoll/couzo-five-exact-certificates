@@ -1,0 +1,37 @@
+[
+  {
+    "name": "same-result",
+    "query": "repo:jlevy/squares is:issue \"8.798795237218283902576680967021394083521019030227879263240370\"",
+    "retrieved_utc": "2026-10-07T23:14:41.484Z"
+  },
+  {
+    "name": "lollipoll-issues",
+    "query": "repo:jlevy/squares is:issue author:lollipoll",
+    "retrieved_utc": "2026-10-07T23:14:41.485Z"
+  },
+  {
+    "name": "issues-n105",
+    "query": "repo:jlevy/squares is:issue 105",
+    "retrieved_utc": "2026-10-07T23:14:41.485Z"
+  },
+  {
+    "name": "issues-n130",
+    "query": "repo:jlevy/squares is:issue 130",
+    "retrieved_utc": "2026-10-07T23:14:41.485Z"
+  },
+  {
+    "name": "issues-n263",
+    "query": "repo:jlevy/squares is:issue 263",
+    "retrieved_utc": "2026-10-07T23:14:41.485Z"
+  },
+  {
+    "name": "issues-n272",
+    "query": "repo:jlevy/squares is:issue 272",
+    "retrieved_utc": "2026-10-07T23:14:41.485Z"
+  },
+  {
+    "name": "issues-n292",
+    "query": "repo:jlevy/squares is:issue 292",
+    "retrieved_utc": "2026-10-07T23:14:41.485Z"
+  }
+]

@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-07",
+  "retrieval_completed_utc": "2026-10-07T22:40:01.102178+00:00",
+  "scope": "Dated comparison to retrieved register records and relevant source certificates, not a worldwide priority or optimality claim.",
+  "archive_unchanged": true,
+  "register_head": "be8172aa3d4dec86b62b38c0779a8c83332e5251",
+  "register_revision_observation": "Authenticated main HEAD returned before and after default-branch case reads. Pinned-ref retrieval failed, so the content hashes identify the exact retrieved snapshots; no atomic pinned download is claimed.",
+  "source_heads": {
+    "daniel": "1b7e2cbebca0a0b26418d9210793b10c7c14da53",
+    "couzo": "6042c56b43b64c09fe5a32c64879e698f399beaf",
+    "squish": "e63e4e52b1728b6671b2f263c5e02a4aa79a39d3"
+  },
+  "comparison_unresolved": "The register n272 case still shows the older bound despite the smaller valid current Daniel source certificate. Registration should retain our n272 only as historical supporting work; no request to replace any smaller bound.",
+  "superseded_counts": [
+    130,
+    272
+  ],
+  "requested_ceiling_counts": [
+    105,
+    263,
+    292
+  ],
+  "rows": [
+    {
+      "n": 105,
+      "our_exact": "540303893275985231628745267522385760199372637/50000000000000000000000000000000000000000000",
+      "our_decimal": "10.80607786551970463257490535044771520398745274",
+      "witness": "reviewed/witnesses/n105.json",
+      "witness_sha256": "ff52d891b7ce26df78a514753b0fdee88d9b9d450fcad00e17814e2ac2552ec5",
+      "retrieved_register_exact": "1350759733192571/125000000000000",
+      "register_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/n-105.md",
+      "register_snapshot": "publication/sources/n-105.md",
+      "register_snapshot_sha256": "bf29815a1c57364677f6411a803c321c060ecaf33a8b3201cd413022649045ef",
+      "register_head_observed": "be8172aa3d4dec86b62b38c0779a8c83332e5251",
+      "source_certificates": [
+        {
+          "author": "Evan Daniel",
+          "side": "5403038932759852316341483064551/500000000000000000000000000000",
+          "certificate": "publication/sources/daniel-live-n105.cert",
+          "sha256": "bb546c3b11f779b6c6708a0c4de5b6f427562d811aaad42c92190cae1467ccf5",
+          "revision": "1b7e2cbebca0a0b26418d9210793b10c7c14da53",
+          "url": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/batch/certs/n-105.cert",
+          "checked_here": true
+        }
+      ],
+      "best_retrieved_source_or_register_exact": "5403038932759852316341483064551/500000000000000000000000000000",
+      "best_retrieved_minus_ours": "5403038932714239800627363/50000000000000000000000000000000000000000000",
+      "best_retrieved_minus_ours_decimal": "0.00000000000000000010806077865428479601254726",
+      "status": "strictly below refreshed register ceiling and retrieved source certificates",
+      "request_ceiling_change": true,
+      "unrestricted_lower_change": null
+    },
+    {
+      "n": 130,
+      "our_exact": "11911187706535762355538876013812043902764970249/1000000000000000000000000000000000000000000000",
+      "our_decimal": "11.911187706535762355538876013812043902764970249",
+      "witness": "reviewed/witnesses/n130.json",
+      "witness_sha256": "0ecdedf4406e5ecddcda580298d0f8d2974ffe272af45071143d9fc520359efe",
+      "retrieved_register_exact": "6701628168660175/562949953421312",
+      "register_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/n-130.md",
+      "register_snapshot": "publication/sources/n-130.md",
+      "register_snapshot_sha256": "4fdc903e04766fefc9658572651aa0f4544df0ae50a31e45e46ac4a011ac8c1b",
+      "register_head_observed": "be8172aa3d4dec86b62b38c0779a8c83332e5251",
+      "source_certificates": [
+        {
+          "author": "Evan Daniel",
+          "side": "5955593853267881177828993945439/500000000000000000000000000000",
+          "certificate": "publication/sources/daniel-live-n130.cert",
+          "sha256": "a484e9335cfd7ab277d15a6925d90a99fc4cc98380e04706edf1a3be9b409805",
+          "revision": "1b7e2cbebca0a0b26418d9210793b10c7c14da53",
+          "url": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/batch/certs/n-130.cert",
+          "checked_here": true
+        },
+        {
+          "author": "Nate Chaoweeraprasit (SQUISH)",
+          "side": "6701628168660175/562949953421312",
+          "certificate": "publication/sources/squish-n130.cert.json",
+          "sha256": "080129fca3dadcb2c6a924b6e629e54d5405988a349008776c5e1a642ef116dc",
+          "revision": "07fe6dde1e5b67405a3076719b90e58e2882b677",
+          "url": "https://github.com/itsnaka/squish-certs/blob/07fe6dde1e5b67405a3076719b90e58e2882b677/squish-submission-2026-10-06/n130/n130.cert.json",
+          "checked_here": true
+        }
+      ],
+      "best_retrieved_source_or_register_exact": "6701628168660175/562949953421312",
+      "best_retrieved_minus_ours": "-107274784302163819966570235496658285303977109/16000000000000000000000000000000000000000000000",
+      "best_retrieved_minus_ours_decimal": "-0.0067046740188852387479106397185411428314985693125",
+      "status": "superseded historical refinement",
+      "request_ceiling_change": false,
+      "unrestricted_lower_change": null
+    },
+    {
+      "n": 263,
+      "our_exact": "16742270262025057558060247617073276618363915907/1000000000000000000000000000000000000000000000",
+      "our_decimal": "16.742270262025057558060247617073276618363915907",
+      "witness": "reviewed/witnesses/n263.json",
+      "witness_sha256": "f25e30eeb7f11c55b7e15bc922ae67b87b377c2ceb389e98aca4e2c55cb17b1d",
+      "retrieved_register_exact": "3348454052405011536751578555669/200000000000000000000000000000",
+      "register_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/n-263.md",
+      "register_snapshot": "publication/sources/n-263.md",
+      "register_snapshot_sha256": "cb37693da3e0c192e32bf6165ddfe914b3e79f4853b05a78947cc63a33a54fe8",
+      "register_head_observed": "be8172aa3d4dec86b62b38c0779a8c83332e5251",
+      "source_certificates": [
+        {
+          "author": "Evan Daniel",
+          "side": "3348454052405011536751578555669/200000000000000000000000000000",
+          "certificate": "publication/sources/daniel-live-n263.cert",
+          "sha256": "e578fde48aa462d94bf079ee139f9a1793c2917322af5f5f815c98d1ca583b43",
+          "revision": "1b7e2cbebca0a0b26418d9210793b10c7c14da53",
+          "url": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/batch/certs/n-263.cert",
+          "checked_here": true
+        }
+      ],
+      "best_retrieved_source_or_register_exact": "3348454052405011536751578555669/200000000000000000000000000000",
+      "best_retrieved_minus_ours": "125697645161271723381636084093/1000000000000000000000000000000000000000000000",
+      "best_retrieved_minus_ours_decimal": "0.000000000000000125697645161271723381636084093",
+      "status": "strictly below refreshed register ceiling and retrieved source certificates",
+      "request_ceiling_change": true,
+      "unrestricted_lower_change": null
+    },
+    {
+      "n": 272,
+      "our_exact": "16968165867852158332724454987487270539732089833/1000000000000000000000000000000000000000000000",
+      "our_decimal": "16.968165867852158332724454987487270539732089833",
+      "witness": "reviewed/witnesses/n272.json",
+      "witness_sha256": "6464a824b1788a83a40f649cb11df1e6a7118d3864282ff0070ff426a0c0786c",
+      "retrieved_register_exact": "8484082933926079166447068323083/500000000000000000000000000000",
+      "register_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/n-272.md",
+      "register_snapshot": "publication/sources/n-272.md",
+      "register_snapshot_sha256": "e8a756f57ba65d268104f038c6b0a9df7488721579be7911bb73cb36e5b38e20",
+      "register_head_observed": "be8172aa3d4dec86b62b38c0779a8c83332e5251",
+      "source_certificates": [
+        {
+          "author": "Evan Daniel",
+          "side": "8484082933926079166447068323083/500000000000000000000000000000",
+          "certificate": "publication/sources/daniel-live-n272.cert",
+          "sha256": "43dfe8ce9d4895dbc1b9b0678a869aac4fc698a087e3ca8fd0e4f3261b7277f9",
+          "revision": "1b7e2cbebca0a0b26418d9210793b10c7c14da53",
+          "url": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/batch/certs/n-272.cert",
+          "checked_here": true
+        },
+        {
+          "author": "Evan Daniel",
+          "side": "2121013768221200063125669904449/125000000000000000000000000000",
+          "certificate": "publication/sources/daniel-candidate-n272.cert",
+          "sha256": "286e186ef21e4a4fd9fd84c69a39d52bc322b35e1111c096115e3561ad99ec89",
+          "revision": "1b7e2cbebca0a0b26418d9210793b10c7c14da53",
+          "url": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/results/sw2/rd1_n272.cert",
+          "checked_here": true,
+          "register_case_still_lists_older_bound": true
+        }
+      ],
+      "best_retrieved_source_or_register_exact": "2121013768221200063125669904449/125000000000000000000000000000",
+      "best_retrieved_minus_ours": "-55722082557827719095751895270539732089833/1000000000000000000000000000000000000000000000",
+      "best_retrieved_minus_ours_decimal": "-0.000055722082557827719095751895270539732089833",
+      "status": "superseded historical refinement",
+      "request_ceiling_change": false,
+      "unrestricted_lower_change": null
+    },
+    {
+      "n": 292,
+      "our_exact": "17597249391156465040471442005510391858592626557/1000000000000000000000000000000000000000000000",
+      "our_decimal": "17.597249391156465040471442005510391858592626557",
+      "witness": "reviewed/witnesses/n292.json",
+      "witness_sha256": "b8d55be6e49b524bb1035b6bcc660316e35c0faa580ad57f715798815e43679e",
+      "retrieved_register_exact": "17597249391199519/1000000000000000",
+      "register_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/n-292.md",
+      "register_snapshot": "publication/sources/n-292.md",
+      "register_snapshot_sha256": "8f022c5d4b8dad81c10f2c1983d222864ec3875d3e55d1c394d8b93dcbdfbe78",
+      "register_head_observed": "be8172aa3d4dec86b62b38c0779a8c83332e5251",
+      "source_certificates": [
+        {
+          "author": "Evan Daniel",
+          "side": "8798624695578232520323707249711/500000000000000000000000000000",
+          "certificate": "publication/sources/daniel-live-n292.cert",
+          "sha256": "d9d24668543b70542d944ad9b6078d1fbef5d0f8916465df755ca93bb8a6969b",
+          "revision": "1b7e2cbebca0a0b26418d9210793b10c7c14da53",
+          "url": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/batch/certs/n-292.cert",
+          "checked_here": true
+        }
+      ],
+      "best_retrieved_source_or_register_exact": "8798624695578232520323707249711/500000000000000000000000000000",
+      "best_retrieved_minus_ours": "175972493911608141407373443/1000000000000000000000000000000000000000000000",
+      "best_retrieved_minus_ours_decimal": "0.000000000000000000175972493911608141407373443",
+      "status": "strictly below refreshed register ceiling and retrieved source certificates",
+      "request_ceiling_change": true,
+      "unrestricted_lower_change": null
+    }
+  ]
+}

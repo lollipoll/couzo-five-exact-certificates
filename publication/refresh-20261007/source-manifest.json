@@ -1,0 +1,227 @@
+[
+  {
+    "repository": "jlevy/squares",
+    "commit": "2af487e7cfe85d84b2a67fa984e2d36a77548d97",
+    "path": "packing/frontier/n-263.md",
+    "file": "sources/register/packing/frontier/n-263.md",
+    "sha256": "213914d537f9cebd31ba96fca789caf7a907401b97ef047764ce7cdc53c300b4",
+    "url": "https://github.com/jlevy/squares/blob/2af487e7cfe85d84b2a67fa984e2d36a77548d97/packing/frontier/n-263.md",
+    "retrieved_utc": "2026-10-07T23:13:08.326109+00:00"
+  },
+  {
+    "repository": "jlevy/squares",
+    "commit": "2af487e7cfe85d84b2a67fa984e2d36a77548d97",
+    "path": "packing/frontier/n-292.md",
+    "file": "sources/register/packing/frontier/n-292.md",
+    "sha256": "8f022c5d4b8dad81c10f2c1983d222864ec3875d3e55d1c394d8b93dcbdfbe78",
+    "url": "https://github.com/jlevy/squares/blob/2af487e7cfe85d84b2a67fa984e2d36a77548d97/packing/frontier/n-292.md",
+    "retrieved_utc": "2026-10-07T23:13:08.326109+00:00"
+  },
+  {
+    "repository": "jlevy/squares",
+    "commit": "2af487e7cfe85d84b2a67fa984e2d36a77548d97",
+    "path": "packing/frontier/n-130.md",
+    "file": "sources/register/packing/frontier/n-130.md",
+    "sha256": "4fdc903e04766fefc9658572651aa0f4544df0ae50a31e45e46ac4a011ac8c1b",
+    "url": "https://github.com/jlevy/squares/blob/2af487e7cfe85d84b2a67fa984e2d36a77548d97/packing/frontier/n-130.md",
+    "retrieved_utc": "2026-10-07T23:13:08.326109+00:00"
+  },
+  {
+    "repository": "jlevy/squares",
+    "commit": "2af487e7cfe85d84b2a67fa984e2d36a77548d97",
+    "path": "packing/frontier/n-272.md",
+    "file": "sources/register/packing/frontier/n-272.md",
+    "sha256": "e8a756f57ba65d268104f038c6b0a9df7488721579be7911bb73cb36e5b38e20",
+    "url": "https://github.com/jlevy/squares/blob/2af487e7cfe85d84b2a67fa984e2d36a77548d97/packing/frontier/n-272.md",
+    "retrieved_utc": "2026-10-07T23:13:08.326109+00:00"
+  },
+  {
+    "repository": "jlevy/squares",
+    "commit": "2af487e7cfe85d84b2a67fa984e2d36a77548d97",
+    "path": "packing/frontier/n-105.md",
+    "file": "sources/register/packing/frontier/n-105.md",
+    "sha256": "bf29815a1c57364677f6411a803c321c060ecaf33a8b3201cd413022649045ef",
+    "url": "https://github.com/jlevy/squares/blob/2af487e7cfe85d84b2a67fa984e2d36a77548d97/packing/frontier/n-105.md",
+    "retrieved_utc": "2026-10-07T23:13:08.326109+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "LICENSE",
+    "file": "sources/daniel/LICENSE",
+    "sha256": "c51886c0f7e6724a7d89fc22cb237a1688ba1bbff04cb21a13b8e1a01fb15578",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/LICENSE",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "search/exact/README.md",
+    "file": "sources/daniel/search/exact/README.md",
+    "sha256": "20acd7d6befa9a3c8f65b88c5d4087f8b996dde940f35b0e982087dac8ec73ef",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/search/exact/README.md",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "search/exact/EXACT_FORMS.md",
+    "file": "sources/daniel/search/exact/EXACT_FORMS.md",
+    "sha256": "bb07621b47e16229d74d9b3087d9a2a4d49876843f426929fac0ce5cfa5b04b7",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/search/exact/EXACT_FORMS.md",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "search/exact/batch/certs/n-130.cert",
+    "file": "sources/daniel/search/exact/batch/certs/n-130.cert",
+    "sha256": "a484e9335cfd7ab277d15a6925d90a99fc4cc98380e04706edf1a3be9b409805",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/search/exact/batch/certs/n-130.cert",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "search/exact/batch/certs/n-272.cert",
+    "file": "sources/daniel/search/exact/batch/certs/n-272.cert",
+    "sha256": "43dfe8ce9d4895dbc1b9b0678a869aac4fc698a087e3ca8fd0e4f3261b7277f9",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/search/exact/batch/certs/n-272.cert",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "search/exact/batch/certs/n-105.cert",
+    "file": "sources/daniel/search/exact/batch/certs/n-105.cert",
+    "sha256": "bb546c3b11f779b6c6708a0c4de5b6f427562d811aaad42c92190cae1467ccf5",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/search/exact/batch/certs/n-105.cert",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "search/exact/batch/certs/n-263.cert",
+    "file": "sources/daniel/search/exact/batch/certs/n-263.cert",
+    "sha256": "e578fde48aa462d94bf079ee139f9a1793c2917322af5f5f815c98d1ca583b43",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/search/exact/batch/certs/n-263.cert",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "search/exact/batch/certs/n-292.cert",
+    "file": "sources/daniel/search/exact/batch/certs/n-292.cert",
+    "sha256": "d9d24668543b70542d944ad9b6078d1fbef5d0f8916465df755ca93bb8a6969b",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/search/exact/batch/certs/n-292.cert",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "search/exact/results/sw2/rd1_n272.cert",
+    "file": "sources/daniel/search/exact/results/sw2/rd1_n272.cert",
+    "sha256": "286e186ef21e4a4fd9fd84c69a39d52bc322b35e1111c096115e3561ad99ec89",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/search/exact/results/sw2/rd1_n272.cert",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "search/packer/candidates/rd1_n272.cert",
+    "file": "sources/daniel/search/packer/candidates/rd1_n272.cert",
+    "sha256": "286e186ef21e4a4fd9fd84c69a39d52bc322b35e1111c096115e3561ad99ec89",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/search/packer/candidates/rd1_n272.cert",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "evand/square-packing",
+    "commit": "6069054020e1c78a395aa90a689332b4a1e6e2cd",
+    "path": "search/packer/candidates/s292_fix0a.cert",
+    "file": "sources/daniel/search/packer/candidates/s292_fix0a.cert",
+    "sha256": "d9d24668543b70542d944ad9b6078d1fbef5d0f8916465df755ca93bb8a6969b",
+    "url": "https://github.com/evand/square-packing/blob/6069054020e1c78a395aa90a689332b4a1e6e2cd/search/packer/candidates/s292_fix0a.cert",
+    "retrieved_utc": "2026-10-07T23:11:57.779722+00:00"
+  },
+  {
+    "repository": "franciscouzo/square-packing",
+    "commit": "6042c56b43b64c09fe5a32c64879e698f399beaf",
+    "path": "README.md",
+    "file": "sources/couzo/README.md",
+    "sha256": "d6f38368d698527dfdec3d236bee304563cdba1a305691e2d8ffe0ca4c832dde",
+    "url": "https://github.com/franciscouzo/square-packing/blob/6042c56b43b64c09fe5a32c64879e698f399beaf/README.md",
+    "retrieved_utc": "2026-10-07T23:11:53.850138+00:00"
+  },
+  {
+    "repository": "franciscouzo/square-packing",
+    "commit": "6042c56b43b64c09fe5a32c64879e698f399beaf",
+    "path": "n292.txt",
+    "file": "sources/couzo/n292.txt",
+    "sha256": "fd97fbe4d52c941547e9803c8e2821945c3457bb654516ec955986d131d3dc11",
+    "url": "https://github.com/franciscouzo/square-packing/blob/6042c56b43b64c09fe5a32c64879e698f399beaf/n292.txt",
+    "retrieved_utc": "2026-10-07T23:11:53.850138+00:00"
+  },
+  {
+    "repository": "franciscouzo/square-packing",
+    "commit": "6042c56b43b64c09fe5a32c64879e698f399beaf",
+    "path": "n263.txt",
+    "file": "sources/couzo/n263.txt",
+    "sha256": "9c0c000da38ccb22c2266a53c8102f64f7b28dea70ea169ce06d3326ce18f5c6",
+    "url": "https://github.com/franciscouzo/square-packing/blob/6042c56b43b64c09fe5a32c64879e698f399beaf/n263.txt",
+    "retrieved_utc": "2026-10-07T23:11:53.850138+00:00"
+  },
+  {
+    "repository": "franciscouzo/square-packing",
+    "commit": "6042c56b43b64c09fe5a32c64879e698f399beaf",
+    "path": "n272.txt",
+    "file": "sources/couzo/n272.txt",
+    "sha256": "435a49bb56b449747bb45be4f16320bb8e11e9ba346320f13627871c26ad9e38",
+    "url": "https://github.com/franciscouzo/square-packing/blob/6042c56b43b64c09fe5a32c64879e698f399beaf/n272.txt",
+    "retrieved_utc": "2026-10-07T23:11:53.850138+00:00"
+  },
+  {
+    "repository": "franciscouzo/square-packing",
+    "commit": "6042c56b43b64c09fe5a32c64879e698f399beaf",
+    "path": "n105.txt",
+    "file": "sources/couzo/n105.txt",
+    "sha256": "de3c54073df607ece142d9b2b294759f3b5d19d15ca2f349542db39f16da0ff7",
+    "url": "https://github.com/franciscouzo/square-packing/blob/6042c56b43b64c09fe5a32c64879e698f399beaf/n105.txt",
+    "retrieved_utc": "2026-10-07T23:11:53.850138+00:00"
+  },
+  {
+    "repository": "franciscouzo/square-packing",
+    "commit": "6042c56b43b64c09fe5a32c64879e698f399beaf",
+    "path": "n130.txt",
+    "file": "sources/couzo/n130.txt",
+    "sha256": "d440c7fd47ff5ea72fa06587b2050d745f17fe36e8208c6903357e0a2b33f744",
+    "url": "https://github.com/franciscouzo/square-packing/blob/6042c56b43b64c09fe5a32c64879e698f399beaf/n130.txt",
+    "retrieved_utc": "2026-10-07T23:11:53.850138+00:00"
+  },
+  {
+    "repository": "itsnaka/squish-certs",
+    "commit": "e63e4e52b1728b6671b2f263c5e02a4aa79a39d3",
+    "path": "README.md",
+    "file": "sources/squish/README.md",
+    "sha256": "9367078c75e8ec3946e3b017b6545e64a272719bf1d96cfffae336a7e4753703",
+    "url": "https://github.com/itsnaka/squish-certs/blob/e63e4e52b1728b6671b2f263c5e02a4aa79a39d3/README.md",
+    "retrieved_utc": "2026-10-07T23:11:54.720402+00:00"
+  },
+  {
+    "repository": "itsnaka/squish-certs",
+    "commit": "e63e4e52b1728b6671b2f263c5e02a4aa79a39d3",
+    "path": "squish-submission-2026-10-06/n130/n130.cert.json",
+    "file": "sources/squish/squish-submission-2026-10-06/n130/n130.cert.json",
+    "sha256": "080129fca3dadcb2c6a924b6e629e54d5405988a349008776c5e1a642ef116dc",
+    "url": "https://github.com/itsnaka/squish-certs/blob/e63e4e52b1728b6671b2f263c5e02a4aa79a39d3/squish-submission-2026-10-06/n130/n130.cert.json",
+    "retrieved_utc": "2026-10-07T23:11:54.720402+00:00"
+  },
+  {
+    "repository": "itsnaka/squish-certs",
+    "commit": "e63e4e52b1728b6671b2f263c5e02a4aa79a39d3",
+    "path": "squish-submission-2026-10-07b/n263/n263.cert.json",
+    "file": "sources/squish/squish-submission-2026-10-07b/n263/n263.cert.json",
+    "sha256": "8e32094d935b7445f98c889305ed8fd018f06c59f7d4bf8f7f0957a70a992e7c",
+    "url": "https://github.com/itsnaka/squish-certs/blob/e63e4e52b1728b6671b2f263c5e02a4aa79a39d3/squish-submission-2026-10-07b/n263/n263.cert.json",
+    "retrieved_utc": "2026-10-07T23:11:54.720402+00:00"
+  }
+]
