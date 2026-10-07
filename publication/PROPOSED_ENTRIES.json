@@ -1,8 +1,8 @@
 {
-  "status": "prepared; not submitted",
-  "public_repository_url": null,
-  "public_release_url": null,
-  "public_issue_url": null,
+  "status": "published; one registration issue submitted, awaiting register review",
+  "public_repository_url": "https://github.com/lollipoll/couzo-five-exact-certificates",
+  "public_release_url": "https://github.com/lollipoll/couzo-five-exact-certificates/releases/tag/v1.0.0",
+  "public_issue_url": "https://github.com/jlevy/squares/issues/425",
   "entries": [
     {
       "n": 105,

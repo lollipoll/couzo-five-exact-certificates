@@ -1,0 +1,75 @@
+{
+  "verified_at_utc": "2026-10-07T22:45:29.859071+00:00",
+  "repository_url": "https://github.com/lollipoll/couzo-five-exact-certificates",
+  "repository_public": true,
+  "release_url": "https://github.com/lollipoll/couzo-five-exact-certificates/releases/tag/v1.0.0",
+  "release_tag": "v1.0.0",
+  "release_commit": "bc389ddf7d65277cd19a9b08fb285d86346d6806",
+  "release_tree": "04ecd47dc65b6aae6e2a3e0c1aa033b877508f3e",
+  "release_tree_equals_prepared_tree": true,
+  "release_draft": false,
+  "issue_url": "https://github.com/jlevy/squares/issues/425",
+  "issue_number": 425,
+  "issue_state": "open",
+  "issue_body_matches_prepared": true,
+  "release_notes_match_prepared": true,
+  "release_assets": [
+    {
+      "browser_download_url": "https://github.com/lollipoll/couzo-five-exact-certificates/releases/download/v1.0.0/couzo-five-exact-reviewed-20261007.tar.gz",
+      "digest": "sha256:d1185848ddac327f0ed8bf7f7d458e065362b47f1989c75e4b4cab2146de1614",
+      "name": "couzo-five-exact-reviewed-20261007.tar.gz",
+      "size": 795147,
+      "state": "uploaded"
+    },
+    {
+      "browser_download_url": "https://github.com/lollipoll/couzo-five-exact-certificates/releases/download/v1.0.0/couzo-five-exact-reviewed-20261007.tar.gz.sha256",
+      "digest": "sha256:a17c94c401d5c6717207e346ecf051eb3db3888b7b3521e8f5f75c25ca0c4cf3",
+      "name": "couzo-five-exact-reviewed-20261007.tar.gz.sha256",
+      "size": 108,
+      "state": "uploaded"
+    },
+    {
+      "browser_download_url": "https://github.com/lollipoll/couzo-five-exact-certificates/releases/download/v1.0.0/couzo-five-exact-verification-receipts-20261007.tar.gz",
+      "digest": "sha256:850b6fb23435fcfd64851d3cfb2d19e7ec440ecad3432a674535e30d5ecab3c7",
+      "name": "couzo-five-exact-verification-receipts-20261007.tar.gz",
+      "size": 17740,
+      "state": "uploaded"
+    },
+    {
+      "browser_download_url": "https://github.com/lollipoll/couzo-five-exact-certificates/releases/download/v1.0.0/refreshed-source-checks.json",
+      "digest": "sha256:c6ad8bc5ba84e42f894a87fc17ab41b6b0b263a425df02748db91a6bade80b62",
+      "name": "refreshed-source-checks.json",
+      "size": 5371,
+      "state": "uploaded"
+    },
+    {
+      "browser_download_url": "https://github.com/lollipoll/couzo-five-exact-certificates/releases/download/v1.0.0/support-checker.json",
+      "digest": "sha256:a539723f014daa58cdfc109cc848b567c3d3ab82cdbd77124df039c9fbf2d557",
+      "name": "support-checker.json",
+      "size": 13114,
+      "state": "uploaded"
+    },
+    {
+      "browser_download_url": "https://github.com/lollipoll/couzo-five-exact-certificates/releases/download/v1.0.0/verification-summary.json",
+      "digest": "sha256:51e5e9c8ec7c317e8e3cf061b6006bcae238933438d5ebc87b6cfa53744ba68f",
+      "name": "verification-summary.json",
+      "size": 1714,
+      "state": "uploaded"
+    }
+  ],
+  "all_asset_sha256_and_sizes_match": true,
+  "package_checker_passes": 15,
+  "support_checker_passes": 5,
+  "requested_ceiling_counts": [
+    105,
+    263,
+    292
+  ],
+  "historical_counts": [
+    130,
+    272
+  ],
+  "register_review_status": "pending; no register-side verification claimed",
+  "unresolved_comparison": "n272 retrieved register case still lists the older ceiling, while Daniel has a smaller exact source certificate, replayed successfully here. Comparisons are dated snapshots; pinned-ref retrieval was unavailable.",
+  "transport": "Public repository and complete matching Git tree uploaded with the ordinary GitHub API after shell push failed. A subsequent ordinary git fetch succeeded and the local checkout was aligned without altering reviewed files."
+}
