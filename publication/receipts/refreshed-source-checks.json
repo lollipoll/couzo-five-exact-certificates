@@ -1,0 +1,96 @@
+{
+  "valid": true,
+  "results": [
+    {
+      "valid": true,
+      "pairs": 5460,
+      "wall_gap": "1/200000000000000000000",
+      "pair_gap": "645331931386121000203584413097993951539378444539071518862360789533751208474828689603/64533193138612178629127952727683769209947135813339310686455843766077006250000000000000000000000000000000",
+      "tolerance": "0",
+      "n": 105,
+      "side": "5403038932759852316341483064551/500000000000000000000000000000",
+      "file": "daniel-live-n105.cert",
+      "sha256": "bb546c3b11f779b6c6708a0c4de5b6f427562d811aaad42c92190cae1467ccf5",
+      "seconds": 0.311353704018984,
+      "method": "Reused reviewed support-function checker on source rational centers and half-angle parameters, translating [0,side]^2 to its centered frame; not a new implementation"
+    },
+    {
+      "valid": true,
+      "pairs": 8385,
+      "wall_gap": "1/200000000000000000000",
+      "pair_gap": "365195950345033641081416426457988856522215506641484246501485146502383601154519439009/36519595034503388253500879907209323996458633699590716341846190016904050000000000000000000000000000000000",
+      "tolerance": "0",
+      "n": 130,
+      "side": "5955593853267881177828993945439/500000000000000000000000000000",
+      "file": "daniel-live-n130.cert",
+      "sha256": "a484e9335cfd7ab277d15a6925d90a99fc4cc98380e04706edf1a3be9b409805",
+      "seconds": 0.2969821139704436,
+      "method": "Reused reviewed support-function checker on source rational centers and half-angle parameters, translating [0,side]^2 to its centered frame; not a new implementation"
+    },
+    {
+      "valid": true,
+      "pairs": 34453,
+      "wall_gap": "1/200000000000000000000",
+      "pair_gap": "11704846315547906152622199490718402298364013864705226169655739604766363649255192869867/1170484631554791712432307256750494171768889773421706334172091029589964900000000000000000000000000000000000",
+      "tolerance": "0",
+      "n": 263,
+      "side": "3348454052405011536751578555669/200000000000000000000000000000",
+      "file": "daniel-live-n263.cert",
+      "sha256": "e578fde48aa462d94bf079ee139f9a1793c2917322af5f5f815c98d1ca583b43",
+      "seconds": 1.508274266961962,
+      "method": "Reused reviewed support-function checker on source rational centers and half-angle parameters, translating [0,side]^2 to its centered frame; not a new implementation"
+    },
+    {
+      "valid": true,
+      "pairs": 36856,
+      "wall_gap": "1/200000000000000000000",
+      "pair_gap": "10222562324756855113969504064341552448427020586143266794605665506489544177230683348661/1022256232475686406359813871418547686547655883771658357949871260237044100000000000000000000000000000000000",
+      "tolerance": "0",
+      "n": 272,
+      "side": "8484082933926079166447068323083/500000000000000000000000000000",
+      "file": "daniel-live-n272.cert",
+      "sha256": "43dfe8ce9d4895dbc1b9b0678a869aac4fc698a087e3ca8fd0e4f3261b7277f9",
+      "seconds": 1.5892415349953808,
+      "method": "Reused reviewed support-function checker on source rational centers and half-angle parameters, translating [0,side]^2 to its centered frame; not a new implementation"
+    },
+    {
+      "valid": true,
+      "pairs": 42486,
+      "wall_gap": "1/200000000000000000000",
+      "pair_gap": "1433087197649291366890778049276114277837559565463591139950356737418290259474596572747/143308719764929227727963557164462167896453321471763610645921627441456450000000000000000000000000000000000",
+      "tolerance": "0",
+      "n": 292,
+      "side": "8798624695578232520323707249711/500000000000000000000000000000",
+      "file": "daniel-live-n292.cert",
+      "sha256": "d9d24668543b70542d944ad9b6078d1fbef5d0f8916465df755ca93bb8a6969b",
+      "seconds": 1.448120771034155,
+      "method": "Reused reviewed support-function checker on source rational centers and half-angle parameters, translating [0,side]^2 to its centered frame; not a new implementation"
+    },
+    {
+      "valid": true,
+      "pairs": 36856,
+      "wall_gap": "1/200000000000000000000",
+      "pair_gap": "51314492435279091737621911487781758916934505589155771544513869057881999968263329821/5131449243527916928461523466751842873599104009505003993002097142419112500000000000000000000000000000000",
+      "tolerance": "0",
+      "n": 272,
+      "side": "2121013768221200063125669904449/125000000000000000000000000000",
+      "file": "daniel-candidate-n272.cert",
+      "sha256": "286e186ef21e4a4fd9fd84c69a39d52bc322b35e1111c096115e3561ad99ec89",
+      "seconds": 1.5121648370404728,
+      "method": "Reused reviewed support-function checker on source rational centers and half-angle parameters, translating [0,side]^2 to its centered frame; not a new implementation"
+    },
+    {
+      "valid": true,
+      "pairs": 8385,
+      "wall_gap": "0",
+      "pair_gap": "164327131177802588734179424951606724835438412972371722809427/1664877876781272708266298634918250472955689884762273741692186633783214080",
+      "tolerance": "0",
+      "n": 130,
+      "side": "6701628168660175/562949953421312",
+      "file": "squish-n130.cert.json",
+      "sha256": "080129fca3dadcb2c6a924b6e629e54d5405988a349008776c5e1a642ef116dc",
+      "seconds": 0.2532708299695514,
+      "method": "Reused reviewed support-function checker on source rational centers and half-angle parameters, translating [0,side]^2 to its centered frame; not a new implementation"
+    }
+  ]
+}

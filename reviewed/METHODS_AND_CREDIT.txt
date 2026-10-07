@@ -1,0 +1,74 @@
+Mathematics, methods, implementation lineage and review scope
+
+Let s(n) be the least square side accommodating n freely rotated unit squares
+with disjoint interiors. Each witness row gives rational x,y,t. Put
+  c=(1-t*t)/(1+t*t), d=2*t/(1+t*t).
+Its vertices are (x,y)+(a(c,d)+b(-d,c))/2, a,b in {-1,1}, inside [-U/2,U/2]^2.
+The identity c*c+d*d=1 is exact. Separating projections on one of the two
+edge normals of either square prove pairwise nonoverlap by the separating-axis
+theorem. Touching is allowed. No decimal approximation, floating result, solver
+convergence, numerical rank, or tolerance enters the finite-witness proof.
+
+The retained first checker (code/independent_verify.py) and second checker
+(code/published_verify.py) reconstruct cyclic polygons independently and
+explicitly check unit edges and orthogonality. The additional checker
+(code/legacy_exact_verify.py) uses rational center/basis projections. Its
+directions are unit by construction; verify.py supplies external count,
+schema, rational-string and positive-side checks. The legacy file includes
+a float mode, but this package invokes verify_exact directly and never that
+mode. The first checker also has numerical screening routines, which are
+not invoked. The second and dual checker use assertions: the driver refuses
+Python optimization before loading them.
+
+All four retained checker files are copied byte for byte from the project's
+src/. The two geometry checkers and legacy implementation were reused from
+the preceding n68/frontier work; sources/historical/reused_code.json records
+that lineage. The restricted dual checker is the preceding frontier campaign's
+separate implementation. The records do not identify separate human authors
+for these campaign files. They are agent-assisted project code, not claimed
+to be authored by Couzo, Evan Daniel, or three outside reviewers. This release
+adds the inventory/hash/comparison/control driver and portable documentation,
+prepared locally by Codex. No retained geometry logic was edited.
+
+Implementation independence has limited scope: the geometry checkers share
+the witness schema, half-angle identity, separating-axis theorem, Python
+interpreter and fractions.Fraction arithmetic. They import no optimizer,
+repair code or shared project geometry helper. They are not independent
+arithmetic hardware and are not a proof-assistant development. The third
+implementation is the existing legacy code, not the unavailable checker from
+the external ChatGPT review. Its pair count in reports is derived from its
+full loops, whereas the first two checkers expose enumeration counters.
+
+Construction and comparison credit:
+  Francisco Couzo: all five starting constructions and coordinate files,
+    https://github.com/franciscouzo/square-packing
+  Evan Daniel: intervening exact refinements, specifically the n263 and n272
+    comparison ceilings, https://github.com/evand/square-packing
+    The October 5 packet reports pin 13ee36e5807727d12a5da36b9b90a96bdba272bf
+    and omits certification of n105,130,292. It does not establish later absence.
+  jlevy/squares: the public frontier register and retained source packet,
+    https://github.com/jlevy/squares
+  Previous n68 and frontier campaigns: half-angle export, exact uniform
+    repair, contact polishing, all-pair certification and restricted dual
+    methods. The n68 result remains separately scoped.
+
+The historical Kingbird record (sources/historical/kingbird.html) also credits:
+  n105: Thomas Schadt, then David Ellsworth.
+  n130: David Ellsworth and David W. Cantrell; antecedents include Erich
+        Friedman and Cantrell's s(37) improvement.
+  n263: David Ellsworth, based on his s(297) construction.
+  n272: Lars Cleemann historically; the later s(210)-derived construction
+        credits M.Z. Arslanov, S.A. Mustafin, Z.K. Shangitbayev, David Ellsworth,
+        and Tej Stead (whose entry credits work with Claude Fable 5).
+  n292: David Ellsworth; antecedents include Karoly Hajba and David W. Cantrell.
+These are historical catalogue credits, not a proof of a square-by-square
+identity between each older catalogue entry and Couzo's later coordinates.
+The catalogue's older rounded sides are not our comparison ceilings.
+
+Discovery used independent angle variables, selected contact equations and
+coordinate gauges, high-precision Newton polishing, then rational half-angle
+export and exact outward repair. n130 closed the previously slack (21,28)
+contact and followed that branch. n292 resolved a nearly axial corner square
+after broad snapping failed. These are nearby refinements: the retained pose
+comparison found no robust separator-owner change. A new contact incidence
+alone does not demonstrate a new combinatorial arrangement.

@@ -1,0 +1,131 @@
+REVIEW UPDATE, 7 October 2026
+
+All five witnesses passed the package replay and an additional independent
+support-function checker; see EXTERNAL_REVIEW.txt and its retained receipts.
+The public n130 case page now reports the smaller certified SQUISH side
+6701628168660175/562949953421312 (safe display 11.9044830325168772). Our n130
+certificate refines a superseded construction. Historical comparisons remain
+unchanged as historical records. Refresh present comparisons before claiming
+current frontier improvements; see PUBLICATION_STATUS.json.
+
+This is a separately reviewed copy; the original uploaded archive is unchanged.
+Run python3 verify.py for the original complete three-checker replay.
+Run python3 code/review_support.py for the additional independent check.
+Both require only the standard library and run offline.
+
+Exact certificate refinements for five Couzo square packings
+LOCAL DRAFT SUBMISSION — not submitted; package awaits review
+Intended register: https://github.com/jlevy/squares
+Relevant records: packing/frontier/n-105.md, n-130.md, n-263.md, n-272.md,
+and n-292.md. Proposed supporting evidence, not an automatic register patch.
+
+Please consider the following five certified upper-bound refinements, after
+reviewing and replaying the attached package. All sides below are exact
+terminating decimals, with reduced fractions and SHA256 values immediately
+following. All cases remain open as unrestricted packing problems.
+
+n    Exact certified upper bound U
+105  10.80607786551970463257490535044771520398745274
+130  11.911187706535762355538876013812043902764970249
+263  16.742270262025057558060247617073276618363915907
+272  16.968165867852158332724454987487270539732089833
+292  17.597249391156465040471442005510391858592626557
+
+n=105:
+  exact rational: 540303893275985231628745267522385760199372637/50000000000000000000000000000000000000000000
+  witness: witnesses/n105.json
+  SHA256: ff52d891b7ce26df78a514753b0fdee88d9b9d450fcad00e17814e2ac2552ec5
+  prior verified ceiling: 1350759733192571/125000000000000
+  exact decrease: 1043168371254732477614239800627363/50000000000000000000000000000000000000000000
+  full decimal decrease: 0.00000000002086336742509464955228479601254726
+
+n=130:
+  exact rational: 11911187706535762355538876013812043902764970249/1000000000000000000000000000000000000000000000
+  witness: witnesses/n130.json
+  SHA256: 0ecdedf4406e5ecddcda580298d0f8d2974ffe272af45071143d9fc520359efe
+  prior verified ceiling: 2977796926637189/250000000000000
+  exact decrease: 12993644461123986187956097235029751/1000000000000000000000000000000000000000000000
+  full decimal decrease: 0.000000000012993644461123986187956097235029751
+
+n=263:
+  exact rational: 16742270262025057558060247617073276618363915907/1000000000000000000000000000000000000000000000
+  witness: witnesses/n263.json
+  SHA256: f25e30eeb7f11c55b7e15bc922ae67b87b377c2ceb389e98aca4e2c55cb17b1d
+  prior verified ceiling: 3348454052405011536751578555669/200000000000000000000000000000
+  exact decrease: 125697645161271723381636084093/1000000000000000000000000000000000000000000000
+  full decimal decrease: 0.000000000000000125697645161271723381636084093
+
+n=272:
+  exact rational: 16968165867852158332724454987487270539732089833/1000000000000000000000000000000000000000000000
+  witness: witnesses/n272.json
+  SHA256: 6464a824b1788a83a40f649cb11df1e6a7118d3864282ff0070ff426a0c0786c
+  prior verified ceiling: 8484082933926079166447068323083/500000000000000000000000000000
+  exact decrease: 169681658678729460267910167/1000000000000000000000000000000000000000000000
+  full decimal decrease: 0.000000000000000000169681658678729460267910167
+
+n=292:
+  exact rational: 17597249391156465040471442005510391858592626557/1000000000000000000000000000000000000000000000
+  witness: witnesses/n292.json
+  SHA256: b8d55be6e49b524bb1035b6bcc660316e35c0faa580ad57f715798815e43679e
+  prior verified ceiling: 17597249391199519/1000000000000000
+  exact decrease: 43053959528557994489608141407373443/1000000000000000000000000000000000000000000000
+  full decimal decrease: 0.000000000043053959528557994489608141407373443
+
+Proposed evidence classification: exact rational finite-witness upper bound,
+contact/certificate refinement of an existing Couzo construction. Keep the
+original construction attribution. The new exact side, not a rounded source
+header, is the proposed ceiling. No changed arrangement is demonstrated.
+
+Credit: Francisco Couzo for all five source constructions; Evan Daniel for
+the intervening exact n263/n272 ceilings in the October 5 packet. The packet
+omitted certification at n105,130,292, but no later absence is claimed. Earlier
+Kingbird construction credits and preceding n68/frontier methods are detailed
+in METHODS_AND_CREDIT.txt. The local campaign/refinement and package tooling
+are agent-assisted; the source constructors did not author this release's
+checker wrapper. Existing notices are retained; no new blanket license is
+assigned where none was supplied.
+
+The comparison manifest contains the original campaign, continuation and
+release-refresh October 7 snapshots, URLs, revision status and content hashes.
+They agree on the five ceilings. The reported column, verified column and
+Couzo header are separate fields. A fresh ordinary web-reader retrieval
+succeeded; raw shell HTTP failed DNS and the current HEAD was not authenticated.
+This submission would assert improvement over these saved ceilings, not a
+worldwide-priority claim. No old upstream certificate is reverified here.
+
+Reproduce from the attachment after extracting it:
+    cd couzo-five-exact-reviewed-20261007
+    python3 verify.py
+Python 3.11+ standard library; offline, with assertions enabled. The command
+checks all static SHA256 hashes, external counts, exact headline equality,
+full rational differences, all pairs and containment with three retained
+implementations, near-boundary controls and the separately scoped dual.
+The final archive was tested from a fresh temporary extraction with isolated
+Python and access guards; its verification receipt accompanies the archive.
+Evidence of the continuation's successful numerical discovery replay is
+separate from this certification replay.
+
+Review completed on 7 October 2026: the package's three checkers and an
+additional independently written support-function checker passed all five
+witnesses; the restricted n105 dual also passed. This is AI-assisted
+implementation review, not human peer review or register-side verification.
+See EXTERNAL_REVIEW.txt, REVIEW_STATUS.json and the retained review receipts.
+
+Current comparison update: n130 is superseded by SQUISH's certified exact
+side 6701628168660175/562949953421312, displayed upward as
+11.9044830325168772. It accompanies this release as a historical refinement;
+no replacement of its smaller current bound is requested. Refresh the other
+four current ceilings before any claim of present frontier improvement.
+COMPARISONS.json preserves the original dated snapshots; PUBLICATION_STATUS.json
+records this later comparison separately.
+
+Separately scoped result: for n105 only, fix all orientations and each recorded
+directed separator, leaving every center free. Then U-1498/10^48 < L_* <= U.
+The 103-term dual checks all 23,520 halfplanes with exact residual correction.
+Do not put this restricted-family bound into the unrestricted s(105) lower
+column. No unrestricted optimality or new infinite family is proposed.
+
+The n68 v1.1.0 release remains separate and unchanged. See its locally sourced
+identity in SOURCES_AND_REPAIRS.txt; no unverified release URL is supplied.
+Attachment: couzo-five-exact-reviewed-20261007.tar.gz and its SHA256/verification receipt.
+Public artifact URL: not assigned (local preparation only).

@@ -1,0 +1,18 @@
+[
+  {
+    "n": 130,
+    "replay_side": "11911187706535762355538876013812043902764970249/1000000000000000000000000000000000000000000000",
+    "retained_side": "11911187706535762355538876013812043902764970249/1000000000000000000000000000000000000000000000",
+    "exact_equal": true,
+    "difference": "0",
+    "note": "Floating discovery may choose different gauges or tie-breaks across environments; exact proof replay is authoritative."
+  },
+  {
+    "n": 292,
+    "replay_side": "17597249391156465040471442005510391858592626557/1000000000000000000000000000000000000000000000",
+    "retained_side": "17597249391156465040471442005510391858592626557/1000000000000000000000000000000000000000000000",
+    "exact_equal": true,
+    "difference": "0",
+    "note": "Floating discovery may choose different gauges or tie-breaks across environments; exact proof replay is authoritative."
+  }
+]

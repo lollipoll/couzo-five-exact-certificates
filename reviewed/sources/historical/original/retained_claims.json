@@ -1,0 +1,41 @@
+[
+  {
+    "n": 105,
+    "certificate": "results/n105-polished/exact.json",
+    "new_bound": "540303893275985231628745267522385760199372637/50000000000000000000000000000000000000000000",
+    "new_decimal": "10.80607786551970463257490535044771520398745274",
+    "old_bound": "1350759733192571/125000000000000",
+    "old_decimal": "10.806077865540568",
+    "gain": "1043168371254732477614239800627363/50000000000000000000000000000000000000000000",
+    "gain_decimal": "2.086336742509464955228479601254726E-11",
+    "certificate_sha256": "ff52d891b7ce26df78a514753b0fdee88d9b9d450fcad00e17814e2ac2552ec5",
+    "classification": "b: contact-polishing/certificate refinement; no new arrangement demonstrated",
+    "comparison_scope": "Retrieved October 7 public frontier; current HEAD not authenticated"
+  },
+  {
+    "n": 263,
+    "certificate": "results/n263-polished/exact.json",
+    "new_bound": "16742270262025057558060247617073276618363915907/1000000000000000000000000000000000000000000000",
+    "new_decimal": "16.742270262025057558060247617073276618363915907",
+    "old_bound": "3348454052405011536751578555669/200000000000000000000000000000",
+    "old_decimal": "16.742270262025057683757892778345",
+    "gain": "125697645161271723381636084093/1000000000000000000000000000000000000000000000",
+    "gain_decimal": "1.25697645161271723381636084093E-16",
+    "certificate_sha256": "f25e30eeb7f11c55b7e15bc922ae67b87b377c2ceb389e98aca4e2c55cb17b1d",
+    "classification": "b: contact-polishing/certificate refinement; no new arrangement demonstrated",
+    "comparison_scope": "Retrieved October 7 public frontier; current HEAD not authenticated"
+  },
+  {
+    "n": 272,
+    "certificate": "results/n272-polished/exact.json",
+    "new_bound": "16968165867852158332724454987487270539732089833/1000000000000000000000000000000000000000000000",
+    "new_decimal": "16.968165867852158332724454987487270539732089833",
+    "old_bound": "8484082933926079166447068323083/500000000000000000000000000000",
+    "old_decimal": "16.968165867852158332894136646166",
+    "gain": "169681658678729460267910167/1000000000000000000000000000000000000000000000",
+    "gain_decimal": "1.69681658678729460267910167E-19",
+    "certificate_sha256": "6464a824b1788a83a40f649cb11df1e6a7118d3864282ff0070ff426a0c0786c",
+    "classification": "b: contact-polishing/certificate refinement; no new arrangement demonstrated",
+    "comparison_scope": "Retrieved October 7 public frontier; current HEAD not authenticated"
+  }
+]

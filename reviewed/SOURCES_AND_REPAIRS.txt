@@ -1,0 +1,75 @@
+Sources, dated comparisons and decimal export defects
+
+The complete original coordinate files for these five counts are retained in
+sources/couzo/. Their README specifies unit squares and decimal x,y,theta
+rows with radians and source centers in [0,s]^2. Source bytes and hashes are
+preserved; they are discovery inputs, not the certified rational witnesses.
+
+n105,263,272 inherit the preceding campaign's Couzo pin
+6042c56b43b64c09fe5a32c64879e698f399beaf (October 3). n105 was a retained
+primary-source download. The n263 and n272 files were recovered from complete
+commit patches, checked against Git blob hashes, and are byte-identical to
+the later supplied files. Patch recovery and head records are retained under
+sources/historical/. n130 and n292 came from a locally supplied extracted
+master archive with UNKNOWN revision. Overlapping file equality does not
+authenticate a revision for that archive. Their source URLs identify the
+repository, not an authenticated fetch of the supplied bytes.
+
+COMPARISONS.json retains, separately, each full source header, the register's
+reported side and its verified ceiling, the certified rational U, and exact
+R-U. Three epochs are included: the original campaign's dated comparison,
+the continuation's October 7 refresh, and this release's October 7 refresh.
+The original n105/263/272 final revisit was around 18:35 UTC. The continuation
+saved all 324 STATUS rows. This release retrieved all five needed rows anew
+through the permitted web reader. Exact values are unchanged across epochs.
+
+Public comparison URL:
+https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md
+Evan Daniel packet URL:
+https://github.com/jlevy/squares/blob/main/packing/resources/web/evand-square-packing-2026-10-05/README.md
+The register attributes its relevant bounds to rigorous verification. We
+compare its exact rational tokens, but do not replay those upstream witnesses
+in this package. The five new witness checks are independently rerunnable here.
+In particular n105 and n130 source/reported headers differ from their verified
+ceilings by 10^-15. n263 and n272 must be compared to Daniel's later ceilings,
+not merely to Couzo's older source headers.
+
+All response snapshots retain URLs and acquisition context and are hashed.
+Web-reader snapshots and extracted rows are not claimed to be original HTTP
+bytes. Direct curl retrieval failed DNS (exit 6); the GitHub HEAD API was not
+available through the reader. No network escalation was attempted. Therefore
+even the fresh comparison is scoped to retained responses and cannot establish
+worldwide priority or exclude later upstream changes. The witness inequalities
+do not depend on frontier currency. Earlier failed evidence/certificate fetches
+remain documented in the continuation snapshots.
+
+Source repair notes (retained outward rational interval checks, not rerun by
+the short release command): all five source poses have strictly positive pair
+separation. At their own full headers, the least wall gaps are approximately
+  n105 -4.45267e-16; n130 -5.29616e-16; n263 -4.02277e-16;
+  n272 +1.95591e-17; n292 -3.57918e-17.
+The four negative cases have tiny decimal export protrusions, not pair overlap.
+The n272 source already has certified containment. Complete outward enclosures
+are retained in evidence/source-intervals/. This does not invalidate the larger
+historical verification ceilings.
+
+Separate continuation repair-only witnesses (kept in the original continuation,
+with hashes and sides in sources/historical/continuation/exact_comparisons.json)
+have sides
+  n130 11.911187706548755559231321691639749687923850032
+  n292 17.597249391199518909088984241414054724717534198.
+Their gains are only about 4.41e-16 and 9.09e-17 against the saved ceilings.
+The much larger main gains survive that repair comparison. Final contact-root
+to-export overheads are about 1.77e-45 and 1.67e-45; contact roots themselves
+are numerical, not certificates. The retained repaired rational witnesses
+in witnesses/ are the sole proof inputs for the five upper bounds.
+
+Separate n68 release reference:
+The project's sources/provenance.json identifies the preserved result as
+v1.1.0 of https://github.com/lollipoll/certified-square-packing-68 . Its exact
+side is 8.798795237218283902576680967021394083521019030227879263240370.
+Local identity and hashes are in evidence/n68-release-reference.json. The
+older baseline source record explicitly linked v1.0.0, a different earlier
+certificate. No exact public v1.1.0 release URL was found in the examined local
+records, so no tag/download URL is guessed. No n68 file or release is modified,
+and n68 is not submitted as part of these five refinements.

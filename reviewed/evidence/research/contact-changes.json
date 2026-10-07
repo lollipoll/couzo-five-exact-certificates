@@ -1,0 +1,79 @@
+[
+  {
+    "n": 130,
+    "from_system": "n130-initial",
+    "to_system": "n130-branch2",
+    "added": [
+      {
+        "edge": "+u",
+        "edge_square": 28,
+        "kind": "vertex_edge",
+        "vertex": [
+          -1,
+          -1
+        ],
+        "vertex_square": 21
+      }
+    ],
+    "removed": [],
+    "numerical_inference_tolerance": 1e-09,
+    "note": "Feature equality lists, not a new-arrangement claim. Full independent exact verification decides feasibility."
+  },
+  {
+    "n": 292,
+    "from_system": "n292-original-branch",
+    "to_system": "n292-corner-polished",
+    "added": [
+      {
+        "edge": "+v",
+        "edge_square": 15,
+        "kind": "vertex_edge",
+        "vertex": [
+          1,
+          -1
+        ],
+        "vertex_square": 0
+      },
+      {
+        "edge": "-v",
+        "edge_square": 0,
+        "kind": "vertex_edge",
+        "vertex": [
+          -1,
+          1
+        ],
+        "vertex_square": 15
+      },
+      {
+        "kind": "vertex_wall",
+        "square": 0,
+        "vertex": [
+          -1,
+          1
+        ],
+        "wall": "left"
+      },
+      {
+        "kind": "vertex_wall",
+        "square": 0,
+        "vertex": [
+          -1,
+          1
+        ],
+        "wall": "top"
+      },
+      {
+        "kind": "vertex_wall",
+        "square": 0,
+        "vertex": [
+          1,
+          1
+        ],
+        "wall": "top"
+      }
+    ],
+    "removed": [],
+    "numerical_inference_tolerance": 1e-09,
+    "note": "Feature equality lists, not a new-arrangement claim. Full independent exact verification decides feasibility."
+  }
+]

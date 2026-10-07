@@ -1,0 +1,45 @@
+Two distinct forms of reproducibility
+
+1. Offline certification replay in THIS package
+
+   python3 verify.py
+
+This reads saved rational witnesses and proves their finite inequalities,
+checks their exact displayed bounds and snapshot comparisons, and checks the
+separate n105 restricted theorem. It needs only ordinary Python 3.11+ standard
+library. It creates verification-output/ without modifying proof inputs.
+SHA256SUMS covers all static files except itself; generated output is outside
+that manifest. Delete only generated output if a clean rerun is desired.
+
+evidence/release-checks/ contains the local pre-archive certification receipt.
+The final archive is also extracted into a new temporary directory and tested
+using isolated Python (-I -S -B), with a Python audit hook denying networking,
+subprocesses, and file reads outside the extraction and Python's standard
+library. The original project is neither an import root nor a permitted read
+root. The archive-specific verification receipt sits beside the archive in
+release/, so it can bind the final archive digest without a circular hash.
+The audit hook is a runtime test guard, not a claimed operating-system sandbox.
+
+2. Retained continuation discovery replay, performed BEFORE this packaging
+
+The original continuation completed a serial replay from source coordinates
+through interval validation, independent-angle screening, contact solving,
+blocking-contact/corner resolution, rational export and exact checking. Its
+comparison receipt is evidence/discovery-replay/comparison.json and its
+completion receipt is evidence/discovery-replay/completion.json. Both final
+rational sides matched identically in that environment; the recorded serial
+discovery replay took 252.38978344993666 seconds. This is retained campaign
+evidence, not a discovery rerun performed by this release preparation.
+
+Original project-relative instructions remain in
+continuation/20261007T195726Z/REPRODUCE.txt and COMMANDS.txt; the original replay
+runner is continuation/20261007T195726Z/src/replay_discovery.py. Scientific
+dependencies and full discovery checkpoints are intentionally left in the
+original project, not made dependencies of this compact certification package.
+Floating gauge choices, tie breaking and timing can differ on other platforms.
+The exact retained witnesses are the portable mathematical proof inputs.
+
+Historical checker reports, source-interval reports and research diagnostics
+are provenance/evidence. verify.py regenerates upper-bound and dual proof
+reports; it does not silently promote saved numerical diagnostics, historical
+source-validation reports, or a discovery receipt to a new external review.

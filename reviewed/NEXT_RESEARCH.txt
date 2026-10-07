@@ -1,0 +1,108 @@
+REVIEW ADDENDUM
+The proposed tiny orientation-box extension has a simple analytic baseline.
+See EXTERNAL_REVIEW.txt; the next proof experiment should seek a stronger
+width-versus-gap tradeoff. The old n130/n154 comparison landscape is superseded
+by the SQUISH intake. The original evidence assessment follows unchanged.
+
+Next research decision, based only on existing evidence
+7 October 2026; no new optimization or discovery campaign started
+
+There is no currently demonstrated, unconsumed mechanism for a changed contact
+arrangement among the screened cases. Do not name a new arrangement target on
+the strength of polishing success. The one ranked opportunity below is a
+tractable, explicitly restricted proof problem, not a forecast of a smaller
+packing. A short screen is not an exhaustion proof.
+
+Evidence reviewed
+
+The complete 49-row continuation screening table is evidence/research/portfolio.csv.
+Exactly 38 formerly unavailable cases were screened, once each, with independent
+angles, all-pair/wall scoring, 40-second and 100-iteration caps and early trust
+radius termination. All 38 stopped on trust radius; none beat its then-refreshed
+exact ceiling. Total solver time was 79.65 seconds. The other 11 were not
+screened again. Low contact degree and near-tied axes are diagnostic counts,
+not established feasible flexes. For example n154 ranked third after the two
+selected cases, but its 1.284-second screen remained 3.1498e-13 above its
+ceiling; 19 low-contact squares and 328 tied axes do not establish descent.
+Neither this ranking nor the slightly longer screens justify a novelty target.
+
+The full retained experiment inventory is evidence/research/experiment_inventory.json.
+Specific continuation failures and consumed mechanisms:
+  n130: the unconstrained Newton step predicted ~1.14e-13 descent but overlapped
+    (21,28) by ~1.66e-7; repair made the side ~1.81e-6 worse. Explicit closure
+    of vertex 21(-1,-1) against edge 28(+u), replacing gauge y21, then branch
+    following succeeded. That mechanism is already consumed. The FINAL
+    diagnostic (not the pre-step branch2 diagnostic) has rank 461/521,
+    60 gauges, gradient 8.81e-17, three positive reduced modes and other
+    curvatures at roundoff. It supplies no reliable remaining descent.
+  n292: initial multiple-root convergence was slow. Broad axial snapping
+    gave ~2.50e-9 overlap; its polished and gauge-refined exports needed about
+    4.1e-8 side repair and were rejected. QR re-ranking alone remained slowly
+    convergent. Original-branch descent and the explicit square-0 corner
+    limit succeeded, followed by the retained final gauge step. Those
+    mechanisms are consumed. The final diagnostic has rank 1053/1169,
+    116 gauges, gradient 1.72e-17 and only three appreciably positive reduced
+    modes. Numerical flatness is not rigidity, a feasible flex, or optimality.
+
+Earlier campaign negative evidence: n105/263/272 received respectively
+54/42/42 owner, split-rotation, block and compression/relaxation trials
+(3447.5/2531.2/2943.8 summed trial seconds). None beat the retained witnesses.
+n272's negative-curvature motion was blocked by (212,213), and in the opposite
+direction by (146,147) and (134,221). Larger moves and translational LP repairs
+failed; closing the first contact produced the retained endpoint. This is not
+evidence of an unexplored feasible switch. n68 had 113 earlier trials plus
+54 focused follow-ups (949.22 seconds), with independent rotations and slides;
+no credible gain. Do not repeat generic n68 jitter. The original reports and
+their hashes are identified in evidence/research/read-records.json.
+
+Mathematical novelty ranking
+
+1. Extend the n105 selected-separator dual to a quantified orientation box.
+   Evidence: the existing exact 103-term nonnegative dual already certifies
+   the fixed-orientation problem to within 1.498e-45, while allowing every
+   center to move. This is an actual proof object, not a numerical Hessian
+   claim. All 23,520 constraints and a working rational verifier are available.
+
+   Proposed theorem scope: fix the recorded owner/axis/sign for every pair,
+   but allow each rational half-angle parameter t_i to vary independently
+   in [t_i^0-epsilon,t_i^0+epsilon]. Allow all centers and L to vary under
+   containment. Reuse the fixed nonnegative weights. The weighted inequality
+   is c(t).X+c_L L+b(t)>=0. Enclose b(t)<=b_plus and
+   K(t)=c_L+sum_j |c_j(t)|/2 <= K_plus using outward rational intervals.
+   If K_plus>0 and b_plus<0, every such feasible packing satisfies
+   L >= -b_plus/K_plus. State epsilon and the exact lower rational. The t-box
+   is not an angle box in radians; no separator switch or global optimum is
+   covered. No interval certificate or quantitative new bound is claimed yet.
+
+   One small diagnostic experiment, proposed only: implement interval
+   evaluation for the 103 weighted rows at epsilon=2^-40, 2^-60 and 2^-80.
+   Reconstruct row numbering from all choices, preserve cancellations at the
+   base point, and compare the epsilon=0 result exactly to the existing dual.
+   Check whether a useful lower bound survives a nonzero epsilon; archive the
+   exact coefficients and a verifier if it does. No optimization is required.
+
+   Likely cost: a few hours to implement/review interval bounds; a hard
+   10-minute total computational diagnostic cap, single process. These are
+   estimates, not measured costs. Early stop on epsilon=0 mismatch, invalid
+   denominator enclosure, loss of the required signs, or exceeding the cap.
+   If all three boxes give U-minus-lower >= 1e-12, record that this simple
+   extension is too weak at those widths and stop; do not shrink indefinitely
+   just to manufacture a theorem. Even success would be a modest new scoped
+   robustness theorem, not unrestricted local optimality.
+
+No second or third novelty opportunity is justified by the present evidence.
+In particular n130 and n292 are not selected merely because their polishing
+succeeded. A future arrangement campaign needs a reproducible feasible motion
+through a supporting-branch change, with omitted constraints checked.
+
+Cheap certificate-padding ranking (separate from novelty)
+
+Low priority, effectively tied: further outward-padding cleanup of the five
+retained witnesses. The reported final root-to-certificate gaps are already
+of order 10^-45. These numerical root differences do not guarantee any exact
+further improvement; a smaller witness would require new exact checks. The
+historical n272 gain of 1.69681658678729460267910167e-19 is consistent with
+removing previous certificate slack and does not make n272 a promising new
+arrangement. Padding cleanup ranks below the scoped proof diagnostic for
+mathematical novelty; there is no evidence-based count ranking for a cheap
+remaining reduction. Do not spend another broad search budget on it.

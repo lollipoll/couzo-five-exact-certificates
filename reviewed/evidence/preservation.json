@@ -1,0 +1,25 @@
+{
+  "valid": true,
+  "checks": {
+    "pre_release": {
+      "files": 4683,
+      "mismatches": []
+    },
+    "original_artifacts": {
+      "files": 2675,
+      "mismatches": []
+    },
+    "continuation": {
+      "files": 629,
+      "mismatches": []
+    },
+    "continuation_preservation": {
+      "files": 4039,
+      "mismatches": []
+    }
+  },
+  "pre_release_manifest_sha256": "32e18dcfb351d82cb23230b3ba41d6d68f6d9047f114d9ed521a83b12a02dfb9",
+  "original_manifest_sha256": "a0b489f6116a090fd1d14eadd29af13a7490b5dce97e7fd5ffa9f420f3b1e802",
+  "continuation_manifest_sha256": "e594673ac46606975d33220524ab3da4b25c1d15792e5e7eeea5323f9cacf5bd",
+  "note": "All pre-existing files preserved; full pre-release inventory retained beside archive, not required by portable verifier."
+}

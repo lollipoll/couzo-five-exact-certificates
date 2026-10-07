@@ -1,0 +1,4 @@
+{
+  "reason": "No initially slack constraint crossed by reduced Newton step; exact export decides feasibility.",
+  "all_residual": "7.7E-118"
+}

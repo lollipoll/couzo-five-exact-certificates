@@ -1,0 +1,140 @@
+{
+  "date_utc": "2026-10-07T22:40:01.102178+00:00",
+  "method": "Ordinary authenticated gh api contents endpoints; successful base64 payloads decoded without rewriting. No network escalation was used successfully.",
+  "register_head": "be8172aa3d4dec86b62b38c0779a8c83332e5251",
+  "pinned_ref_download": "blocked: shell connection failures; no file from those attempts is treated as retrieved",
+  "escalation": "One request rejected because sandbox_approval is disabled; not retried",
+  "files": [
+    {
+      "path": "couzo-certification.json.gz",
+      "sha256": "5e0a27c631032098992c73bd8c31306b00423d110ee3f003187ee13e4d63be3b",
+      "bytes": 18114
+    },
+    {
+      "path": "couzo-n105.yaml.gz",
+      "sha256": "206945836eb15474655950585e7045ccaee8f8972b54c499d52bcf1678d2d1ff",
+      "bytes": 87900
+    },
+    {
+      "path": "couzo-n292.yaml.gz",
+      "sha256": "8d77391457525da620c5670c3236d19e4daf0b469ff4c72acdbe71ef3af965c7",
+      "bytes": 254501
+    },
+    {
+      "path": "couzo-packet.md",
+      "sha256": "879350079f839f1285f5aea41fe009573eb76f6fe92416d64d57673564d8e0fd",
+      "bytes": 22030
+    },
+    {
+      "path": "daniel-LICENSE.txt",
+      "sha256": "c51886c0f7e6724a7d89fc22cb237a1688ba1bbff04cb21a13b8e1a01fb15578",
+      "bytes": 1068
+    },
+    {
+      "path": "daniel-acquisition.json",
+      "sha256": "f66c5af0b060db4974ae67d9935d36a3053c3061f6fb60125983b137c6dd3ddb",
+      "bytes": 258851
+    },
+    {
+      "path": "daniel-candidate-n272.cert",
+      "sha256": "286e186ef21e4a4fd9fd84c69a39d52bc322b35e1111c096115e3561ad99ec89",
+      "bytes": 44531
+    },
+    {
+      "path": "daniel-live-n105.cert",
+      "sha256": "bb546c3b11f779b6c6708a0c4de5b6f427562d811aaad42c92190cae1467ccf5",
+      "bytes": 18354
+    },
+    {
+      "path": "daniel-live-n130.cert",
+      "sha256": "a484e9335cfd7ab277d15a6925d90a99fc4cc98380e04706edf1a3be9b409805",
+      "bytes": 18931
+    },
+    {
+      "path": "daniel-live-n263.cert",
+      "sha256": "e578fde48aa462d94bf079ee139f9a1793c2917322af5f5f815c98d1ca583b43",
+      "bytes": 41846
+    },
+    {
+      "path": "daniel-live-n272.cert",
+      "sha256": "43dfe8ce9d4895dbc1b9b0678a869aac4fc698a087e3ca8fd0e4f3261b7277f9",
+      "bytes": 44935
+    },
+    {
+      "path": "daniel-live-n292.cert",
+      "sha256": "d9d24668543b70542d944ad9b6078d1fbef5d0f8916465df755ca93bb8a6969b",
+      "bytes": 42277
+    },
+    {
+      "path": "daniel-packet.md",
+      "sha256": "c38c68967508268d52e7a65c02bd38c851395ec1e74a8a8a4ceacf5bfd8cb5eb",
+      "bytes": 41265
+    },
+    {
+      "path": "n-105.md",
+      "sha256": "bf29815a1c57364677f6411a803c321c060ecaf33a8b3201cd413022649045ef",
+      "bytes": 11998
+    },
+    {
+      "path": "n-130.md",
+      "sha256": "4fdc903e04766fefc9658572651aa0f4544df0ae50a31e45e46ac4a011ac8c1b",
+      "bytes": 8497
+    },
+    {
+      "path": "n-263.md",
+      "sha256": "cb37693da3e0c192e32bf6165ddfe914b3e79f4853b05a78947cc63a33a54fe8",
+      "bytes": 11186
+    },
+    {
+      "path": "n-272.md",
+      "sha256": "e8a756f57ba65d268104f038c6b0a9df7488721579be7911bb73cb36e5b38e20",
+      "bytes": 12848
+    },
+    {
+      "path": "n-292.md",
+      "sha256": "8f022c5d4b8dad81c10f2c1983d222864ec3875d3e55d1c394d8b93dcbdfbe78",
+      "bytes": 10717
+    },
+    {
+      "path": "result-import.md",
+      "sha256": "b5f431bbe7c2ab1b6e199e82432cd8cba72ab4aed5e53ec6d49855954ea62595",
+      "bytes": 30502
+    },
+    {
+      "path": "result-registration.md",
+      "sha256": "12e5354069dbc3d4fab3ec40b0a667348f4f8984f83dc30bbc05226346a23923",
+      "bytes": 1140
+    },
+    {
+      "path": "squish-acquisition.json",
+      "sha256": "0e453ddd789b3fef33b7abdd9c8fd6e2c6e8b9d4ae6b7a74b3c786c4f7f038fa",
+      "bytes": 6410
+    },
+    {
+      "path": "squish-n130-facts.json.gz",
+      "sha256": "54d1209dc810857aadaa202bf19a4206650794c579cab0db712872274b9b3ec2",
+      "bytes": 2804
+    },
+    {
+      "path": "squish-n130.cert.json",
+      "sha256": "080129fca3dadcb2c6a924b6e629e54d5405988a349008776c5e1a642ef116dc",
+      "bytes": 15457
+    },
+    {
+      "path": "squish-packet.md",
+      "sha256": "32fb006a438a158a9bef26d2e56f1c9b7b5eecffdce5471d782a90bf8a0d9c27",
+      "bytes": 9903
+    }
+  ],
+  "source_certificate_urls": {
+    "couzo-n105.yaml.gz": "https://github.com/jlevy/squares/blob/main/packing/witnesses/franciscouzo-2026/n-105-rational.yaml.gz",
+    "couzo-n292.yaml.gz": "https://github.com/jlevy/squares/blob/main/packing/witnesses/franciscouzo-2026/n-292-rational.yaml.gz",
+    "daniel-live-n105.cert": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/batch/certs/n-105.cert",
+    "daniel-live-n130.cert": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/batch/certs/n-130.cert",
+    "daniel-live-n263.cert": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/batch/certs/n-263.cert",
+    "daniel-live-n272.cert": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/batch/certs/n-272.cert",
+    "daniel-live-n292.cert": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/batch/certs/n-292.cert",
+    "daniel-candidate-n272.cert": "https://github.com/evand/square-packing/blob/1b7e2cbebca0a0b26418d9210793b10c7c14da53/search/exact/results/sw2/rd1_n272.cert",
+    "squish-n130.cert.json": "https://github.com/itsnaka/squish-certs/blob/07fe6dde1e5b67405a3076719b90e58e2882b677/squish-submission-2026-10-06/n130/n130.cert.json"
+  }
+}

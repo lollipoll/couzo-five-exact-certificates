@@ -1,0 +1,40 @@
+[
+  {
+    "n": 130,
+    "stage": "branch2",
+    "classification": "tighter certification / contact refinement of Couzo construction",
+    "source_header": "11.911187706548755",
+    "comparison_reported": "11.911187706548755",
+    "comparison_verified_exact": "2977796926637189/250000000000000",
+    "comparison_verified_decimal": "11.911187706548756",
+    "new_upper_exact": "11911187706535762355538876013812043902764970249/1000000000000000000000000000000000000000000000",
+    "new_upper_decimal": "11.911187706535762355538876013812043902764970249",
+    "improvement_exact": "12993644461123986187956097235029751/1000000000000000000000000000000000000000000000",
+    "improvement_decimal": "1.2993644461123986187956097235029751E-11",
+    "comparison_date": "2026-10-07",
+    "comparison_source": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "comparison_snapshot": "sources/web/status-completion.json",
+    "witness": "results/n130-branch2/exact.json",
+    "sha256": "0ecdedf4406e5ecddcda580298d0f8d2974ffe272af45071143d9fc520359efe",
+    "pairs_per_checker": 8385
+  },
+  {
+    "n": 292,
+    "stage": "branch2",
+    "classification": "tighter certification / contact refinement of Couzo construction",
+    "source_header": "17.597249391199519",
+    "comparison_reported": "17.597249391199519",
+    "comparison_verified_exact": "17597249391199519/1000000000000000",
+    "comparison_verified_decimal": "17.597249391199519",
+    "new_upper_exact": "17597249391156465040471442005510391858592626557/1000000000000000000000000000000000000000000000",
+    "new_upper_decimal": "17.597249391156465040471442005510391858592626557",
+    "improvement_exact": "43053959528557994489608141407373443/1000000000000000000000000000000000000000000000",
+    "improvement_decimal": "4.3053959528557994489608141407373443E-11",
+    "comparison_date": "2026-10-07",
+    "comparison_source": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "comparison_snapshot": "sources/web/refresh-response.json",
+    "witness": "results/n292-branch2/exact.json",
+    "sha256": "b8d55be6e49b524bb1035b6bcc660316e35c0faa580ad57f715798815e43679e",
+    "pairs_per_checker": 42486
+  }
+]

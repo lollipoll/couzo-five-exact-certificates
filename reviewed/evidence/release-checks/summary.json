@@ -1,0 +1,45 @@
+{
+  "valid": true,
+  "kind": "offline certification replay; not discovery replay or external review",
+  "claims": [
+    {
+      "n": 105,
+      "upper_exact": "540303893275985231628745267522385760199372637/50000000000000000000000000000000000000000000",
+      "sha256": "ff52d891b7ce26df78a514753b0fdee88d9b9d450fcad00e17814e2ac2552ec5",
+      "pairs_per_checker": 5460
+    },
+    {
+      "n": 130,
+      "upper_exact": "11911187706535762355538876013812043902764970249/1000000000000000000000000000000000000000000000",
+      "sha256": "0ecdedf4406e5ecddcda580298d0f8d2974ffe272af45071143d9fc520359efe",
+      "pairs_per_checker": 8385
+    },
+    {
+      "n": 263,
+      "upper_exact": "16742270262025057558060247617073276618363915907/1000000000000000000000000000000000000000000000",
+      "sha256": "f25e30eeb7f11c55b7e15bc922ae67b87b377c2ceb389e98aca4e2c55cb17b1d",
+      "pairs_per_checker": 34453
+    },
+    {
+      "n": 272,
+      "upper_exact": "16968165867852158332724454987487270539732089833/1000000000000000000000000000000000000000000000",
+      "sha256": "6464a824b1788a83a40f649cb11df1e6a7118d3864282ff0070ff426a0c0786c",
+      "pairs_per_checker": 36856
+    },
+    {
+      "n": 292,
+      "upper_exact": "17597249391156465040471442005510391858592626557/1000000000000000000000000000000000000000000000",
+      "sha256": "b8d55be6e49b524bb1035b6bcc660316e35c0faa580ad57f715798815e43679e",
+      "pairs_per_checker": 42486
+    }
+  ],
+  "geometric_checker_passes": 15,
+  "total_pair_tests": 382920,
+  "controls_per_checker": 10,
+  "restricted_dual": true,
+  "negative_dual_control": true,
+  "exact_comparison_epochs": 3,
+  "package_hashes": 105,
+  "python_version": "3.12.3",
+  "seconds": 172.20009584899526
+}

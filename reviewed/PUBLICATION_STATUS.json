@@ -1,0 +1,23 @@
+{
+  "review_date": "2026-10-07",
+  "scope": "Review of retrieved public source pages; no authenticated current repository HEAD",
+  "historical_comparisons_preserved": true,
+  "n130": {
+    "status": "superseded historical construction refinement",
+    "newer_exact_bound": "6701628168660175/562949953421312",
+    "safe_decimal": "11.9044830325168772",
+    "our_bound_minus_newer_exact": "107274784302163819966570235496658285303977109/16000000000000000000000000000000000000000000000",
+    "source": "https://github.com/jlevy/squares/blob/main/packing/frontier/n-130.md",
+    "source_packet": "https://github.com/jlevy/squares/blob/main/packing/resources/web/squish-401-2026-10-07/README.md",
+    "source_replay_status": "Register describes independent replay; not replayed in this review"
+  },
+  "other_counts": {
+    "counts": [
+      105,
+      263,
+      272,
+      292
+    ],
+    "status": "Strictly improve retained ceilings; present frontier status requires an authenticated refresh before publication claims"
+  }
+}

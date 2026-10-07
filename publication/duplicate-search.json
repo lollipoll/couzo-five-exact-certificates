@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-07",
+  "repository": "jlevy/squares",
+  "queries": [
+    {
+      "query": "repo:jlevy/squares \"couzo-five-exact\"",
+      "total_count": 0
+    },
+    {
+      "query": "repo:jlevy/squares author:lollipoll",
+      "total_count": 0
+    },
+    {
+      "query": "repo:jlevy/squares \"Couzo\" \"refinements\"",
+      "total_count": 0
+    }
+  ],
+  "method": "Authenticated gh api search/issues; repeat immediately before posting"
+}

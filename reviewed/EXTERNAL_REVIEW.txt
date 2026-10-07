@@ -1,0 +1,140 @@
+Independent review of the five-case Couzo certificate package
+2026-10-07
+
+Verdict
+
+All five rational witnesses are valid upper-bound certificates. No blocking
+mathematical defect was found. The package replay, three retained geometry
+implementations, and an additional independent support-function implementation
+all passed. The n105 restricted dual theorem also passed independent replay.
+
+Publication requires a changed comparison description: a newer case page gives
+a much smaller certified SQUISH packing for n130. The old STATUS responses used
+by the campaign and initially retrieved in this review are older than that
+case page. Consequently this is a package of refinements against dated retained
+ceilings, not five confirmed current frontier improvements.
+
+Verified witness sides
+
+105  10.80607786551970463257490535044771520398745274
+130  11.911187706535762355538876013812043902764970249
+263  16.742270262025057558060247617073276618363915907
+272  16.968165867852158332724454987487270539732089833
+292  17.597249391156465040471442005510391858592626557
+
+The old dated-ceiling decreases are respectively approximately 2.09e-11,
+1.30e-11, 1.26e-16, 1.70e-19 and 4.31e-11. Exact subtractions and terminating
+decimals agree with COMPARISONS.json. The n105/263/272 witnesses are byte-for-byte
+identical to the previously audited witnesses.
+
+New n130 comparison
+
+The retrieved case page identifies Nate Chaoweeraprasit's SQUISH certificate
+with exact side 6701628168660175/562949953421312, safely displayed as
+11.9044830325168772. It is below the retained n130 refinement by about 0.00670467.
+The source packet says its pinned release was committed on 2026-10-07 and covers
+108,126,129,130,154,155,180,209,238,303, plus a later n153 supplement. Thus n130
+is already a refinement of a superseded construction. The other four counts
+are outside that packet, but this is not proof of their current worldwide status.
+
+I read the register's replay/review account of SQUISH; I did not independently
+replay its certificate in this audit. The case page and source packet agree on
+the exact n130 side. No authenticated current HEAD or complete fresh inventory
+was available through these retrievals. Refresh all relevant case records and
+source certificates before any claim about present frontier status.
+
+Sources for this comparison update:
+https://github.com/jlevy/squares/blob/main/packing/frontier/n-130.md
+https://github.com/jlevy/squares/blob/main/packing/resources/web/squish-401-2026-10-07/README.md
+SQUISH revision reported there: 07fe6dde1e5b67405a3076719b90e58e2882b677.
+
+Checks performed
+
+The uploaded archive was safely extracted with links and unsafe paths refused.
+Its 137 static package hashes and copied-input hashes passed. I ran:
+  python3 -I -S -B verify.py --output /absolute/path/to/reproduction
+
+All 15 supplied geometry decisions passed. They examined 127,640 unordered
+pairs per implementation (382,920 total), exact containment and the claimed
+unit-square representation. All ten controls per checker passed, as did the
+negative dual-weight control, all three saved comparison epochs, and the
+n105 dual's 23,520 halfplanes and 103 nonnegative terms. This took about 110
+seconds in the review environment. The code was inspected before execution.
+
+I adapted the earlier independently written support-function audit to all
+five inputs, importing no campaign or package geometry code. It directly
+checks rational orthonormal frames, containment and center projections along
+four square axes. All 127,640 pairs passed with zero tolerance. Exact touching
+was accepted; overlap and wall protrusion of 1e-100 were rejected. Its independent
+dual reconstruction also agreed. This additional replay took about 5.6 seconds.
+The independent code, receipt and log accompany the reviewed release copy.
+
+The checkers share Python rational arithmetic, the half-angle map and the
+separating-axis theorem. These are implementation checks, not proof-assistant
+verification or human peer review. The ordinary interpreter requirement remains.
+The numerical discovery replay and source-angle interval reports were read as
+retained evidence; they were not regenerated here. Their scope is separate from
+the new rational-witness verification.
+
+Handoff assessment
+
+The portfolio has 49 rows. Exactly 38 cases received new screens, totaling
+79.65282005001791 solver seconds. Every one stopped at its trust radius and
+none beat its saved comparison ceiling. This is not an exhaustion argument.
+Some of those comparisons, including n130 and n154, now trail the SQUISH intake.
+
+The n130 contact closure and n292 corner-resolution mechanisms are already
+consumed by the retained endpoints. Final numerical stationarity/rank diagnostics
+identify no demonstrated remaining feasible descent. The handoff correctly
+declines to nominate another arrangement solely from low contact degree or
+near-tied axes. No unrestricted rigidity or optimality follows from those tests.
+
+The most concrete scoped proof opportunity is n105, where an exact dual exists.
+However, merely extending it to tiny orientation boxes is routine. A simple
+analytic bound already gives a baseline for that experiment:
+
+Let epsilon bound every |t_i-t_i^0|. Keep the selected supporting inequalities,
+allow all centers to vary, and keep the 103 dual weights. Let P be the sum of
+weights on pair rows and W the sum on wall rows. From the validated base dual
+let K0 be its corrected positive objective coefficient and B0 its constant.
+Then a valid lower bound is
+
+  L >= -(B0 + (4P+2W)epsilon)/(K0 + 4P epsilon),
+
+provided the numerator constant is negative and the denominator is positive.
+The half-angle identity gives
+  ||u(t)-u(t0)||^2 = 4(t-t0)^2/((1+t^2)(1+t0^2)) <= 4epsilon^2.
+Vertex-offset changes are at most 2epsilon in Euclidean norm. A pair-row
+constant therefore changes by at most 4epsilon and a wall-row constant by at
+most 2epsilon. Each pair row's center-coefficient l1 change is at most
+8epsilon; half that enters the corrected objective coefficient. Nonnegative
+weights and containment give the displayed bound. This is a direct analytic
+estimate conditional on the validated base dual, not a claim of novelty.
+
+Exact rational evaluation gives U-minus-lower approximately:
+  epsilon=2^-40: 4.115100844949538e-10
+  epsilon=2^-60: 3.9244659853856133e-16
+  epsilon=2^-80: 3.742662415872205e-22.
+Thus the proposed tiny-box diagnostic is not enough to justify another long
+campaign. A more useful experiment is to preserve cancellations and exploit
+center/contact constraints to certify a materially larger neighborhood, or
+identify a genuinely feasible improving motion exposed by a failed bound.
+The accompanying proof prompt sets that scope and a bounded stopping rule.
+
+Reviewed release copy
+
+The original uploaded archive is unchanged. A separate reviewed copy updates
+review status and drafts, adds this report and the independent checker/receipts,
+and prominently labels n130 as superseded. Original witnesses, verifier logic,
+source snapshots and historical comparisons remain unchanged. Hashes are rebuilt
+for the changed package. PUBLICATION_STATUS.json records the fresh discrepancy
+separately, so old comparisons do not silently become new ones.
+
+Use the reviewed copy for publication, with the title "Exact certificate
+refinements of five Couzo square packings." Registration should request only
+changes still supported by refreshed comparisons; n130 can accompany the work
+as a historical refinement, without a request to raise or replace its new bound.
+The public register asks for a registration issue using its result form:
+https://github.com/jlevy/squares/blob/main/.github/ISSUE_TEMPLATE/result-registration.md
+
+No publication, message or submission was performed by this review.

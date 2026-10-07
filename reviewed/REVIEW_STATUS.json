@@ -1,0 +1,33 @@
+{
+  "basis": "Completed review dated 2026-10-07; EXTERNAL_REVIEW.txt, code/review_support.py and evidence/external-review/ retain the implementation and receipts.",
+  "externally_completed": [
+    {
+      "n": 105,
+      "scope": "Exact geometry, headline and dated comparisons; n105 also has an independently reconstructed restricted dual",
+      "reviewer": "ChatGPT/Codex implementation review, not human peer review"
+    },
+    {
+      "n": 130,
+      "scope": "Exact geometry, headline and dated comparisons; n105 also has an independently reconstructed restricted dual",
+      "reviewer": "ChatGPT/Codex implementation review, not human peer review"
+    },
+    {
+      "n": 263,
+      "scope": "Exact geometry, headline and dated comparisons; n105 also has an independently reconstructed restricted dual",
+      "reviewer": "ChatGPT/Codex implementation review, not human peer review"
+    },
+    {
+      "n": 272,
+      "scope": "Exact geometry, headline and dated comparisons; n105 also has an independently reconstructed restricted dual",
+      "reviewer": "ChatGPT/Codex implementation review, not human peer review"
+    },
+    {
+      "n": 292,
+      "scope": "Exact geometry, headline and dated comparisons; n105 also has an independently reconstructed restricted dual",
+      "reviewer": "ChatGPT/Codex implementation review, not human peer review"
+    }
+  ],
+  "external_review_pending": [],
+  "release_rerun": "Three local checker implementations and restricted dual replay; this is not a new external independent review.",
+  "review_replay": "Three packaged implementations and an additional independently written support-function implementation passed all five witnesses."
+}

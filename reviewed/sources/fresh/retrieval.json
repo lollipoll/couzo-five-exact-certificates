@@ -1,0 +1,14 @@
+{
+  "retrieval_date": "2026-10-07",
+  "saved_utc": "2026-10-07T21:12:22.184165+00:00",
+  "raw_http_attempt": "curl-status.stderr and curl-status.exit: DNS failure (6); no escalation attempted.",
+  "web_result": "All five requested STATUS rows retrieved and extracted; unchanged exact ceilings.",
+  "head_attempt": "GitHub commit API web-reader retrieval failed; see fresh_web_rows.txt.",
+  "earlier_packet": "Evan Daniel October 5 packet refreshed via rendered GitHub; historical revision retained with register attribution.",
+  "snapshots": {
+    "fresh_web_guide.txt": "d4582abd51d016cb9d61a4a3b62d76939ce44f05947b2ae8b4d1fc0e888c229e",
+    "fresh_web_initial.txt": "f6a8d67b20a397d607b7a783cb55908a570fe1a98306fe62c1c30ce4b29684b1",
+    "fresh_web_more.txt": "3490eb7db6b4454d743c0930ece7423efb00a72f77f59c0f571d173df10be645",
+    "fresh_web_rows.txt": "492e04121a5f1989cb452572ab9ac22e8a6245aab8d6620ebcc0f8cfa4aea569"
+  }
+}

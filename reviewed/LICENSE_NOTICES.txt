@@ -1,0 +1,18 @@
+Existing notices and limits of the retained licensing record
+
+All copied checker files, witnesses, source coordinates and snapshots retain
+their original bytes and notices. No blanket license or transfer of rights
+is assigned by this draft release. No LICENSE/COPYING/NOTICE file for the
+campaign checkers or the supplied Couzo archive was found in the examined
+local project. Attribution alone is not a license grant.
+
+licenses/MPMATH-LICENSE.txt preserves the project's existing BSD-style notice:
+Copyright (c) 2005-2026 Fredrik Johansson and mpmath contributors.
+mpmath contributed to numerical discovery but its code is not shipped in this
+compact package and is not required to verify it. No NumPy, SciPy, Numba,
+environment, or optimizer is bundled.
+
+The retained jlevy source packet reports Evan Daniel's upstream code as MIT
+licensed (LICENSE and s12/LICENSE). None of Daniel's checker/solver code is
+copied here; his refinements are credited as comparison sources. That reported
+license is not assigned to the campaign code or to unrelated source snapshots.

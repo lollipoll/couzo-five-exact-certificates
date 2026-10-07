@@ -1,0 +1,147 @@
+ (https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/README.md)
+citeturn3view0 [wordlim: 200] Crawled: 3 weeks ago; Content type: text/plain; Source: open({"ref_id":"https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/README.md","lineno":null}); Total lines: 277
+--------------------------------------------------------------------------------
+squares/packing/resources/web/evand-square-packing-2026-10-05/README.md at main · jlevy/squares · GitHub (https://github.com/jlevy/squares/blob/main/packing/resources/web/evand-square-packing-2026-10-05/README.md)
+citeturn3view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn1view2","lineno":196}); Total lines: 436
+L1: ## Navigation Menu
+L2: 
+L3: cite1†Sign in L4: 
+L5: Appearance settings
+L6: 
+L7:   * Platform
+L8: 
+L9:     * AI CODE CREATION
+L10:       * cite2†GitHub CopilotWrite better code with AI L11:       * cite3†GitHub Copilot appDirect agents from issue to merge L12:       * cite4†MCP RegistryIntegrate external tools L13: 
+L14:     * DEVELOPER WORKFLOWS
+L20:     * APPLICATION SECURITY
+L21:       * cite10†GitHub Advanced SecurityFind and fix vulnerabilities L22:       * cite11†Code securitySecure your code as you build L23:       * cite12†Secret protectionStop leaks before they start L24: 
+L25:     * EXPLORE
+L26:       * cite13†Why GitHub L27:       * cite14†Documentation†docs.github.com L28:       * cite15†Blog†github.blog L29:       * cite16†Changelog†github.blog L30:       * cite17†Marketplace L31: 
+L32: cite18†View all features L33: 
+L34:   * Solutions
+L35:     * BY COMPANY SIZE
+L36:       * cite19†Enterprises L37:       * cite20†Small and medium teams L38:       * cite21†Startups L39:       * cite22†Nonprofits L40: 
+L41:     * BY USE CASE
+L42:       * cite23†App Modernization L43:       * cite24†DevSecOps L44:       * cite25†DevOps L45:       * cite26†CI/CD L46:       * cite27†View all use cases L47: 
+L48:     * BY INDUSTRY
+L49:       * cite28†Healthcare L50:       * cite29†Financial services L51:       * cite30†Manufacturing L52:       * cite31†Government L53:       * cite32†View all industries L54: 
+L55: cite33†View all solutions L56: 
+L57:   * Resources
+L58:     * EXPLORE BY TOPIC
+L59:       * cite34†AI L60:       * cite35†Software Development L61:       * cite36†DevOps L62:       * cite37†Security L63:       * cite38†View all topics L64: 
+L65:     * EXPLORE BY TYPE
+L66:       * cite39†Customer stories L67:       * cite40†Events & webinars L68:       * cite41†Ebooks & reports L69:       * cite42†Business insights L70:       * cite43†GitHub Skills†skills.github.com L71:     * SUPPORT & SERVICES
+L72:       * cite14†Documentation†docs.github.com L73:       * cite44†Customer support†support.github.com L74:       * cite45†Community forum L75:       * cite46†Trust center L76:       * cite47†Partners L77: 
+L78: cite48†View all resources L79: 
+L80:   * Open Source
+L81: 
+L82:     * COMMUNITY
+L83:       * cite49†GitHub SponsorsFund open source developers L84:     * PROGRAMS
+L85:       * cite50†Security Lab†securitylab.github.com L86:       * cite51†Maintainer Community†maintainers.github.com L87:       * cite52†GitHub Stars†stars.github.com L88:       * cite53†Archive Program†archiveprogram.github.com L89: 
+L90:     * REPOSITORIES
+L91:       * cite54†Topics L92:       * cite55†Trending L93:       * cite56†Collections L94: 
+L95:   * Enterprise
+L96: 
+L97:     * ENTERPRISE SOLUTIONS
+L98:       * cite19†Enterprise platformAI-powered developer platform L99:     * AVAILABLE ADD-ONS
+L100:       * cite10†GitHub Advanced SecurityEnterprise-grade security features L101:       * cite57†Copilot for BusinessEnterprise-grade AI features L102:       * cite58†Premium SupportEnterprise-grade 24/7 support L103: 
+L104:   * cite59†Pricing L105: 
+L106: Search`/`
+L107: 
+L108: cite1†Sign in L109: 
+L110: cite60†Sign up L111: 
+L112: Appearance settings
+L113: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+L114: 
+L115:   1. cite61†jlevy L116:   2. cite62†squares L117: ## Repository navigation
+L118: 
+L119:   *   * cite62†Code L120:   * cite63†Issues11 (11) L121:   * cite64†Pull requests14 (14) L122:   * cite65†Actions L123:   * cite66†Security and quality L124:   * cite67†Insights L125: 
+L126: More items
+L127: 
+L128: ## Files Expand file tree
+L129: 
+L130: main
+L131: 
+L132: ## Breadcrumbs
+L133: 
+L134:   1. cite68†squares L135:   2. /cite69†packing L136:   3. /cite70†resources L137:   4. /cite71†web L138:   5. /cite72†evand-square-packing-2026-10-05 L139: 
+L140: /
+L141: 
+L142: # README.md
+L143: 
+L144: Copy path
+L145: 
+L146: [Input: Go to file]
+L147: 
+L148: Blame More file actions
+L149: 
+L150: Blame More file actions
+L151: 
+L152: ## Latest commit
+L153: 
+L154: 
+L155: 
+L156: ## History
+L157: 
+L158: History
+L159: 
+L160: main
+L161: ## Breadcrumbs
+L162: 
+L163:   1. cite68†squares L164:   2. /cite69†packing L165:   3. /cite70†resources L166:   4. /cite71†web L167:   5. /cite72†evand-square-packing-2026-10-05 L168: 
+L169: /
+L170: 
+L171: # README.md
+L172: 
+L173: Copy path
+L174: 
+L175: Top
+L176: 
+L177: ## File metadata and controls
+L178: 
+L179:   * Preview
+L180: 
+L181:   * Code
+L182: 
+L183:   * Blame
+L184: 
+L185: 484 lines (436 loc) · 40.3 KB
+L186: 
+L187: cite73†Raw L188: 
+L189: Copy raw file
+L190: 
+L191: Download raw file
+L192: 
+L193: Outline
+L194: 
+L195: Edit and raw actions
+L196: # Evan Daniel’s Exact Optima of the Register’s Packings, `square-packing` at 5 October 2026, Retrieved 2026-10-05
+L197: This packet records `s12/search/exact/` of cite74†evand/square-packing at the commit that adds it: an exact-contact solver, run on this register’s known-best witness at every count `n = 1` to `324`, and the exact rational certificate of `s(n) ≤ S'` it writes for 321 of them.
+L198: At 48 counts `S'` lies below the side the register reported, by `3.5e-13` to `5.0e-11`: the exact optimum of the same packing, Francisco Couzo’s at 46 counts and Joost de Winter’s at `n = 126` and `211`, with the slack of its binary64 pose removed. Evan Daniel asked for those 48 to be registered on cite75†jlevy/squares#375 . Its Frontier key is [evand exact optima 2026-10-05], the result is registered as T-098, and the import bead is `think-t6ok`.
+L199: At 77 more counts the certified side lies just above the printed one and lowers the verified ceiling; the author asked for nothing from those, and the owner decided to register them as T-101 (provisionally T-118 until merged, `think-70bh`; cite76†The 77 Ceiling Counts ).
+L200: The certificate for `n = 17` is held by the owner for the `n = 17` work on other branches (`think-x4v4`). It is not retained, not pinned by digest and not replayed here, and neither are the solver’s `n = 17` input and test-set outputs; the commit pins the whole tree, them among it.
+L201: ## Source and Pin
+L202: Field  | Value
+L203: --- | ---
+L204: Revision  | `13ee36e5807727d12a5da36b9b90a96bdba272bf`, committed 2026-10-05T20:54:59Z (“Exact-contact solver for unit-square packings, and exact certificates for every record in jlevy’s register”)
+L205: Follows  | `7ff3b2113532889708a3baa4d56bc44294022e63`, retained in cite77†`../evand-square-packing-2026-10-04/` ; the one commit between, `ab2bf47`, adds a working note on the algebraic degree of `s(n)` and is a read in cite78†`intake-watch.yaml` L206: Author  | Evan Daniel; the commit is co-authored by Claude Opus 5.5
+L207: Credit  | The batch README says the packings are their finders’ (named in `results.md`), that the inputs are this register’s `witnesses/known-best/n-N.yaml` (“Register data: CC BY 4.0, Joshua Levy, the squares project”), and the issue that the method is David Ellsworth’s analytic minimisation, reimplemented as a high-precision KKT Newton solve with the rational certificate added
+L208: AI assistance  | On #375 the author wrote that “the solver, verifiers and this batch were written with Claude (Anthropic) as a coding and research agent, directed and reviewed by me”; the batch README says both checkers “were written by the same author and agent as the solver”
+L209: Licence  | MIT (`LICENSE` and `s12/LICENSE`, Evan Daniel), pinned here as identical to the earlier packet’s copies
+L210: Retrieved  | 2026-10-05T22:08Z, a blobless clone, `main` at this commit then and at 22:22Z
+L211: Retained here  | The 48 improving certificates `batch/certs/n-N.cert` (1.6 MB) and, from 6 October, the 77 that lower a verified ceiling (2.0 MB), both checkers `verify_cert.py` and `verify_cert2.py`, the solver `exactsolve.py` and its `geom.py`, the drivers `verify_all.sh` and `reproduce.sh`, `batch/results.md`, the source’s per-count report `batch/results.json` (stored compressed) and both READMEs
+L212: Pinned by digest only  | The other 195 certificates, all 320 solver inputs, the solver’s seven-input test set and its outputs, the batch’s scripts that read the register and build its tables, and `candidates_all.json`: 555 files, 4.3 MB, listed with their reasons in cite79†`acquisition/sources.json` L213: Left out  | `batch/certs/n-17.cert`, `batch/inputs/n-17.txt`, `inputs/site17.txt` and `results/site17.*`, held
+L214: `python -m devtools.acquire_source evand-square-packing-2026-10-05 --checkout PATH` writes the retained tree, the subtree manifest and the acquisition record from a checkout at the pin, from cite80†`acquisition/declaration.json` ; `--check` re-derives them from the packet alone. `results.md`, `results.json` and `s12/search/exact/README.md` are retained byte for byte and so keep their `n = 17` rows, which nothing here reads.
+L215: ## What the Source Claims
+L216:   * 48 upper bounds. For each count below, `s(n) ≤ S'`, `S'` the side of an exact rational certificate `n-N.cert`: `n` unit squares, each a rational centre `(x, y)` and a rational `t = tan(θ/2)`, so that `(c, s) = ((1 − t²)/(1 + t²), 2t/(1 + t²))` holds exactly, inside a box of rational side `S'`.
+L217: The solver takes the register’s binary64 pose to a nearby exact KKT point of minimizing the side, at 80 digits, scales it by `1 + 10⁻²⁰`, rounds the centres to `10⁻³⁵` and the rotations to rational tangents, and rounds the side up. Eleven of the 48 inputs are the witness after the source’s unpublished SLP squeeze, which matters only for reproducing the solve.
+L218:   * 273 more certificates at the counts that do not improve, each `1e-20` to `1e-14` above the printed side, offered as an independent exact replay of the existing upper bounds with nothing asked to be registered. `n = 105, 130` and `292` are not certified.
+L219:   * Numerical, not by interval proof: 315 of the 321 exact points are KKT local minima, 44 of the 48 among them, and `n = 177, 211, 263` and `272` of the 48 are certified bounds only. The source names an interval-Newton enclosure as the next step.
+L220: ## Replayed Here
+L221: Decided here, independently re-implemented.
+L222: `devtools.evand_exact_certificates check` reads each certificate strictly (a header `n S`, exactly `n` rows `x y t`, rational literals only; the source’s parser ignores rows past `n`, this one refuses them) and converts it without rounding: `(c, s)` from `t` as above, a rational centre-and-basis witness for `sqpack.witness.exact_verify`, and the corners `(x + c a − s b, y + s a + c b)`, `a, b = ±1/2`, for `devtools.check_rational_witness_independent`, which shares no geometry or verification code with `sqpack`.
+L223: Their common mode is that parse and the map from `t` to `(c, s)`. Both accept all 48, with least wall clearance `5e-21` and least pair gap about `1e-20` at every count, and every one of the 320 certificates the packet pins, read from a checkout at the pin: 2,820 CPU seconds on two workers, 802 of them for the 48 (cite81†`receipts/first-party-check.json` ).
+L224: Neither decider imports or copies the source’s code; the converter’s author read the source’s checkers first, to confirm the corner convention, as the module states.
+L225: The source’s checkers, reproduced. `source-replay` runs `verify_cert.py` and `verify_cert2.py` as retained, under CPython 3.14.7, as separate processes, holding each to its exit status and to a last line beginning `VALID`. Both accept all 320 certificates (202 CPU seconds on two workers; 54 for the 48), and `verify_cert.py` reports a least wall clearance of `5e-21` and a least pair separation of `1e-20` at each improving count (cite82†`receipts/source-replay.json` ).
+L226: Against the register. `compare` reads, at each improving count, the bounds the record held before this import from the sources that held them: the latest certified packet’s printed side and verified value (T-056, T-057 or T-092), or at `n = 126` the Kingbird catalogue’s side and the grid ceiling `12`. Every `S'` lies below both, by `3.5e-13` (`n = 211`) to `5.0e-11` (`n = 270`) under the printed side.
+

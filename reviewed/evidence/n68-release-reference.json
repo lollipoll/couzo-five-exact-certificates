@@ -1,0 +1,17 @@
+{
+  "release": "v1.1.0 as identified by local campaign records",
+  "repository_url": "https://github.com/lollipoll/certified-square-packing-68",
+  "exact_public_release_url": null,
+  "public_url_note": "No v1.1.0 tag or download URL identified in examined local records; not guessed.",
+  "local_witness_project_path": "sources/n68-v1.1.0-exact.json",
+  "local_witness_sha256": "6d4f72debae83b5825e91f7b090e0cee08851ad7b85400343c0dee52f468dff9",
+  "exact_side": "879879523721828390257668096702139408352101903022787926324037/100000000000000000000000000000000000000000000000000000000000",
+  "exact_side_decimal": "8.798795237218283902576680967021394083521019030227879263240370",
+  "provenance_project_path": "sources/provenance.json",
+  "provenance_sha256": "dbedb2ca25c6c174bb9a17b3368b7342467595621a323493e474de5f087cd388",
+  "root_report_sha256": "3499cdbd27ce3a448eee5102b8f76ba2d5c9a70a2dfaf25c9a669a06db4ef210",
+  "baseline_prior_release_url": "https://github.com/lollipoll/certified-square-packing-68/releases/tag/v1.0.0",
+  "baseline_prior_release_note": "Explicit URL in baseline/n68-campaign/sources/provenance.json refers to the earlier v1.0.0 input, not the separate v1.1.0 result.",
+  "included_in_five_claims": false,
+  "changed": false
+}

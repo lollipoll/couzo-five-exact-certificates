@@ -1,0 +1,19 @@
+PASS: 137 package hashes and unchanged input hashes
+PASS: n=105, first, all 5460 pairs and containment, exact
+PASS: n=105, second, all 5460 pairs and containment, exact
+PASS: n=105, legacy, all 5460 pairs and containment, exact
+PASS: n=130, first, all 8385 pairs and containment, exact
+PASS: n=130, second, all 8385 pairs and containment, exact
+PASS: n=130, legacy, all 8385 pairs and containment, exact
+PASS: n=263, first, all 34453 pairs and containment, exact
+PASS: n=263, second, all 34453 pairs and containment, exact
+PASS: n=263, legacy, all 34453 pairs and containment, exact
+PASS: n=272, first, all 36856 pairs and containment, exact
+PASS: n=272, second, all 36856 pairs and containment, exact
+PASS: n=272, legacy, all 36856 pairs and containment, exact
+PASS: n=292, first, all 42486 pairs and containment, exact
+PASS: n=292, second, all 42486 pairs and containment, exact
+PASS: n=292, legacy, all 42486 pairs and containment, exact
+PASS: 10 controls on all three checkers
+PASS: n105 restricted dual, 23,520 halfplanes, 103 terms; negative-weight control
+PASS: five exact upper bounds, historical/fresh exact comparisons, controls, and separately scoped n105 dual.

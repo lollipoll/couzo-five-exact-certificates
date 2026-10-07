@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "classification": "tighter exact certification/contact refinement, source export repair separately retained; no new arrangement or theorem",
+  "clock_marker_utc": "2026-10-07T19:57:26+00:00",
+  "completed_utc": "2026-10-07T20:37:24.475322+00:00",
+  "elapsed_seconds_since_clock_marker": 2398.475322,
+  "timing_note": "Preparatory reads preceded the clock marker by a few minutes; total session well under six-hour ceiling.",
+  "maximum_search_processes": 2,
+  "blas_threads": 1,
+  "search_jobs_remaining": 0,
+  "tracked_jobs": "All tool-started search, repair, diagnostic, discovery replay and proof sessions returned completion; no unattended search jobs.",
+  "screen_seconds": 79.65282005001791,
+  "source_interval_seconds": 684.5326882292284,
+  "serial_discovery_replay_seconds": 252.38978344993666,
+  "discovery_replay_exact_sides_equal": true,
+  "preserved_existing_files": 4039,
+  "original_artifact_entries": 2675,
+  "stopping_reasons": {
+    "n130": "After explicit blocker closure and branch descent, gradient ~8.8e-17, no reliable descent beyond floating noise in selected contact system.",
+    "n292": "After original-branch descent and square-0 corner resolution, gradient ~1.7e-17, no reliable descent beyond floating noise in selected contact system.",
+    "other_36": "One economical independent-angle screen each; no endpoint beat refreshed exact ceiling and no justified mechanism for deeper work."
+  },
+  "no_external_writes": true
+}

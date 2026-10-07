@@ -1,0 +1,71 @@
+REVIEW UPDATE, 7 October 2026
+
+All five witnesses passed the package replay and an additional independent
+support-function checker; see EXTERNAL_REVIEW.txt and its retained receipts.
+The public n130 case page now reports the smaller certified SQUISH side
+6701628168660175/562949953421312 (safe display 11.9044830325168772). Our n130
+certificate refines a superseded construction. Historical comparisons remain
+unchanged as historical records. Refresh present comparisons before claiming
+current frontier improvements; see PUBLICATION_STATUS.json.
+
+This is a separately reviewed copy; the original uploaded archive is unchanged.
+Run python3 verify.py for the original complete three-checker replay.
+Run python3 code/review_support.py for the additional independent check.
+Both require only the standard library and run offline.
+
+Exact certificate refinements for five Couzo square packings
+LOCAL DRAFT — not posted or sent; prepared for review, 7 October 2026
+
+A portable package gives tighter exact certifications of Francisco Couzo's
+existing unit-square packings at n=105,130,263,272,292:
+
+n    Exact certified upper bound U
+105  10.80607786551970463257490535044771520398745274
+130  11.911187706535762355538876013812043902764970249
+263  16.742270262025057558060247617073276618363915907
+272  16.968165867852158332724454987487270539732089833
+292  17.597249391156465040471442005510391858592626557
+
+These decimals are exact rational upper bounds. Complete rational centers
+and half-angle parameters are included. Three retained Python implementations
+pass all pairs and containment at zero tolerance; a separate exact n105 dual
+is included only for fixed orientations and recorded directed separators.
+
+Credit belongs to Francisco Couzo for the starting constructions and to the
+historical construction authors described in METHODS_AND_CREDIT.txt. Evan
+Daniel's intervening October 5 refinements are the comparison ceilings for
+n263 and n272. The earlier n68/frontier campaigns supplied contact-polishing,
+repair and exact-checking methods. This is agent-assisted refinement work.
+No new arrangement, worldwide priority or unrestricted optimality is claimed.
+
+Exact decreases and source snapshots are in BOUNDS.txt and COMPARISONS.json.
+Historical and freshly retrieved October 7 register ceilings agree. The fresh
+web-reader response has no authenticated HEAD, so comparison claims remain
+scoped to those snapshots. The witness inequalities are independent of that
+currency limitation.
+
+Review completed on 7 October 2026: the package's three checkers and an
+additional independently written support-function checker passed all five
+witnesses; the restricted n105 dual also passed. This is AI-assisted
+implementation review, not human peer review or register-side verification.
+See EXTERNAL_REVIEW.txt, REVIEW_STATUS.json and the retained review receipts.
+
+Current comparison update: n130 is superseded by SQUISH's certified exact
+side 6701628168660175/562949953421312, displayed upward as
+11.9044830325168772. It accompanies this release as a historical refinement;
+no replacement of its smaller current bound is requested. Refresh the other
+four current ceilings before any claim of present frontier improvement.
+COMPARISONS.json preserves the original dated snapshots; PUBLICATION_STATUS.json
+records this later comparison separately.
+
+To reproduce certification: extract couzo-five-exact-reviewed-20261007.tar.gz, enter
+couzo-five-exact-reviewed-20261007, and run:
+    python3 verify.py
+Ordinary Python 3.11+ standard library suffices, offline; do not use -O.
+SHA256SUMS and an archive sidecar digest bind the files. Numerical discovery
+replay was separately completed by the continuation and its receipt is
+included; this offline command checks certification, not numerical discovery.
+
+The separate n68 v1.1.0 result is unchanged. Its locally recorded repository
+and exact release identity are documented without inventing a release URL.
+This local draft has no public artifact URL yet.

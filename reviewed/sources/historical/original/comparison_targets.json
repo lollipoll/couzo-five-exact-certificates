@@ -1,0 +1,2651 @@
+{
+  "130": {
+    "n": 130,
+    "reported_side": "11.911187706548755",
+    "verified_side": "2977796926637189/250000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "131": {
+    "n": 131,
+    "reported_side": "11.954916830216124410139679227683",
+    "verified_side": "11954916830216124410139679227683/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "132": {
+    "n": 132,
+    "reported_side": "11.991327887691501411687842131585",
+    "verified_side": "2398265577538300282337568426317/200000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "133": {
+    "n": 133,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "134": {
+    "n": 134,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "135": {
+    "n": 135,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "136": {
+    "n": 136,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "137": {
+    "n": 137,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "138": {
+    "n": 138,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "139": {
+    "n": 139,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "140": {
+    "n": 140,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "141": {
+    "n": 141,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "142": {
+    "n": 142,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "143": {
+    "n": 143,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "144": {
+    "n": 144,
+    "reported_side": "12",
+    "verified_side": "12",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "145": {
+    "n": 145,
+    "reported_side": "9 + (5/2)\u221a2",
+    "verified_side": "626776695296637/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "146": {
+    "n": 146,
+    "reported_side": "12.60090777851301",
+    "verified_side": "630045388925651/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "147": {
+    "n": 147,
+    "reported_side": "7 + 4 \u221a2",
+    "verified_side": "1265685424949239/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "148": {
+    "n": 148,
+    "reported_side": "7 + 4 \u221a2",
+    "verified_side": "1265685424949239/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "149": {
+    "n": 149,
+    "reported_side": "12 + (1/2)\u221a2",
+    "verified_side": "254142135623731/20000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "150": {
+    "n": 150,
+    "reported_side": "5 + (11/2)\u221a2",
+    "verified_side": "1277817459305203/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "151": {
+    "n": 151,
+    "reported_side": "(23/2) + (1/2)\u221a7",
+    "verified_side": "128228756555323/10000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "152": {
+    "n": 152,
+    "reported_side": "12.830718800976609954993823643412",
+    "verified_side": "3207679700244152488748455910853/250000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "153": {
+    "n": 153,
+    "reported_side": "12.88166675700900",
+    "verified_side": "1288166675700901/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "154": {
+    "n": 154,
+    "reported_side": "12.931663721166847019324363825319",
+    "verified_side": "12931663721166847019324363825319/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "155": {
+    "n": 155,
+    "reported_side": "12.95561959213445243801096476729",
+    "verified_side": "1295561959213445243801096476729/100000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "156": {
+    "n": 156,
+    "reported_side": "12.982082698516893102076828502036",
+    "verified_side": "3245520674629223275519207125509/250000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "157": {
+    "n": 157,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "158": {
+    "n": 158,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "159": {
+    "n": 159,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "160": {
+    "n": 160,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "161": {
+    "n": 161,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "162": {
+    "n": 162,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "163": {
+    "n": 163,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "164": {
+    "n": 164,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "165": {
+    "n": 165,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "166": {
+    "n": 166,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "167": {
+    "n": 167,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "168": {
+    "n": 168,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "169": {
+    "n": 169,
+    "reported_side": "13",
+    "verified_side": "13",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "170": {
+    "n": 170,
+    "reported_side": "10 + (5/2)\u221a2",
+    "verified_side": "676776695296637/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "171": {
+    "n": 171,
+    "reported_side": "13 + (4/7)",
+    "verified_side": "678571428571429/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "172": {
+    "n": 172,
+    "reported_side": "13.61898895689939842899969151892",
+    "verified_side": "340474723922484960724992287973/25000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "173": {
+    "n": 173,
+    "reported_side": "8 + 4 \u221a2",
+    "verified_side": "1365685424949239/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "174": {
+    "n": 174,
+    "reported_side": "13 + (1/2)\u221a2",
+    "verified_side": "274142135623731/20000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "175": {
+    "n": 175,
+    "reported_side": "6 + (11/2)\u221a2",
+    "verified_side": "1377817459305203/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "176": {
+    "n": 176,
+    "reported_side": "(25/2) + (1/2)\u221a7",
+    "verified_side": "138228756555323/10000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "177": {
+    "n": 177,
+    "reported_side": "13.822979734169448600231882896281",
+    "verified_side": "13822979734169448600231882896281/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "178": {
+    "n": 178,
+    "reported_side": "13 - (1/2)\u221a2 + sqrt(1 + \u221a2)",
+    "verified_side": "1384666719284349/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "179": {
+    "n": 179,
+    "reported_side": "13.89534106997649",
+    "verified_side": "27790682139953/2000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "180": {
+    "n": 180,
+    "reported_side": "13.927888140498096339178993024781",
+    "verified_side": "13927888140498096339178993024781/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "181": {
+    "n": 181,
+    "reported_side": "13.953748821954402498045544433567",
+    "verified_side": "13953748821954402498045544433567/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "182": {
+    "n": 182,
+    "reported_side": "13.974090713121439007150130032772",
+    "verified_side": "3493522678280359751787532508193/250000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "183": {
+    "n": 183,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "184": {
+    "n": 184,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "185": {
+    "n": 185,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "186": {
+    "n": 186,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "187": {
+    "n": 187,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "188": {
+    "n": 188,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "189": {
+    "n": 189,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "190": {
+    "n": 190,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "191": {
+    "n": 191,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "192": {
+    "n": 192,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "193": {
+    "n": 193,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "194": {
+    "n": 194,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "195": {
+    "n": 195,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "196": {
+    "n": 196,
+    "reported_side": "14",
+    "verified_side": "14",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "197": {
+    "n": 197,
+    "reported_side": "11 + (5/2)\u221a2",
+    "verified_side": "726776695296637/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "198": {
+    "n": 198,
+    "reported_side": "14 + (4/7)",
+    "verified_side": "728571428571429/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "199": {
+    "n": 199,
+    "reported_side": "14.61898895689939842900969151892",
+    "verified_side": "365474723922484960725242287973/25000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "200": {
+    "n": 200,
+    "reported_side": "9 + 4 \u221a2",
+    "verified_side": "1465685424949239/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "201": {
+    "n": 201,
+    "reported_side": "14 + (1/2)\u221a2",
+    "verified_side": "294142135623731/20000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "202": {
+    "n": 202,
+    "reported_side": "2 + 9 \u221a2",
+    "verified_side": "736396103067893/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-cases.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "90": {
+    "n": 90,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "91": {
+    "n": 91,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "92": {
+    "n": 92,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "93": {
+    "n": 93,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "94": {
+    "n": 94,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "95": {
+    "n": 95,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "96": {
+    "n": 96,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "97": {
+    "n": 97,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "98": {
+    "n": 98,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "99": {
+    "n": 99,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "100": {
+    "n": 100,
+    "reported_side": "10",
+    "verified_side": "10",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "101": {
+    "n": 101,
+    "reported_side": "7 + (5/2)\u221a2",
+    "verified_side": "526776695296637/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "102": {
+    "n": 102,
+    "reported_side": "10.607174680176051125448595024891",
+    "verified_side": "10607174680176051125448595024891/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "103": {
+    "n": 103,
+    "reported_side": "10.703516755572542008729416503972",
+    "verified_side": "2675879188893135502182354125993/250000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "104": {
+    "n": 104,
+    "reported_side": "10 + (1/2)\u221a2",
+    "verified_side": "214142135623731/20000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "105": {
+    "n": 105,
+    "reported_side": "10.806077865540567",
+    "verified_side": "1350759733192571/125000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page",
+    "final_revisit_utc": "2026-10-07T18:35:00Z",
+    "final_snapshot": "sources/web-final-primary-refresh.txt",
+    "final_revisit_note": "Web reader says crawled today; no authenticated HEAD available",
+    "final_revisit_time_precision": "approximate minute; content hash and web source metadata are authoritative retrieval evidence"
+  },
+  "106": {
+    "n": 106,
+    "reported_side": "10.822908044132847555194436943331",
+    "verified_side": "10822908044132847555194436943331/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "107": {
+    "n": 107,
+    "reported_side": "10 - (1/2)\u221a2 + sqrt(1 + \u221a2)",
+    "verified_side": "1084666719284349/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "108": {
+    "n": 108,
+    "reported_side": "10.92591939016138",
+    "verified_side": "1092591939016139/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "210": {
+    "n": 210,
+    "reported_side": "14.973001116587625741983018050468",
+    "verified_side": "3743250279146906435495754512617/250000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "211": {
+    "n": 211,
+    "reported_side": "14.997960704967361565181004478378",
+    "verified_side": "7498980352483680782590502239189/500000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "212": {
+    "n": 212,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "213": {
+    "n": 213,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "214": {
+    "n": 214,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "215": {
+    "n": 215,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "216": {
+    "n": 216,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "217": {
+    "n": 217,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "218": {
+    "n": 218,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "219": {
+    "n": 219,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "220": {
+    "n": 220,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "221": {
+    "n": 221,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "204": {
+    "n": 204,
+    "reported_side": "(27/2) + (1/2)\u221a7",
+    "verified_side": "148228756555323/10000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "205": {
+    "n": 205,
+    "reported_side": "14.82445114612408",
+    "verified_side": "1482445114612409/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "206": {
+    "n": 206,
+    "reported_side": "14.860158663391903236840250629824",
+    "verified_side": "232189979115498488075628916091/15625000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "207": {
+    "n": 207,
+    "reported_side": "14.893954634237227388391298332204",
+    "verified_side": "3723488658559306847097824583051/250000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "208": {
+    "n": 208,
+    "reported_side": "14.926534459699423246906428356506",
+    "verified_side": "7463267229849711623453214178253/500000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "209": {
+    "n": 209,
+    "reported_side": "14.953939011857122362887224108935",
+    "verified_side": "2990787802371424472577444821787/200000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "222": {
+    "n": 222,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "223": {
+    "n": 223,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "224": {
+    "n": 224,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "225": {
+    "n": 225,
+    "reported_side": "15",
+    "verified_side": "15",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "226": {
+    "n": 226,
+    "reported_side": "12 + (5/2)\u221a2",
+    "verified_side": "776776695296637/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "227": {
+    "n": 227,
+    "reported_side": "(17/2) + 5 \u221a2",
+    "verified_side": "389276695296637/25000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "228": {
+    "n": 228,
+    "reported_side": "15.604602454546056967137037190451",
+    "verified_side": "15604602454546056967137037190451/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "229": {
+    "n": 229,
+    "reported_side": "10 + 4 \u221a2",
+    "verified_side": "1565685424949239/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "230": {
+    "n": 230,
+    "reported_side": "15 + (28/41)",
+    "verified_side": "156829268292683/10000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "231": {
+    "n": 231,
+    "reported_side": "15 + (1/2)\u221a2",
+    "verified_side": "314142135623731/20000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "232": {
+    "n": 232,
+    "reported_side": "8 + (11/2)\u221a2",
+    "verified_side": "1577817459305203/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "233": {
+    "n": 233,
+    "reported_side": "8 + (11/2)\u221a2",
+    "verified_side": "1577817459305203/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "234": {
+    "n": 234,
+    "reported_side": "(29/2) + (1/2)\u221a7",
+    "verified_side": "158228756555323/10000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "235": {
+    "n": 235,
+    "reported_side": "15.82660563342856",
+    "verified_side": "1582660563342857/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "236": {
+    "n": 236,
+    "reported_side": "15.87221902560728287835395301986",
+    "verified_side": "793610951280364143917697650993/50000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "237": {
+    "n": 237,
+    "reported_side": "15.911191683001783031028912780176",
+    "verified_side": "994449480187611439439307048761/62500000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "109": {
+    "n": 109,
+    "reported_side": "6 + (7/2)\u221a2",
+    "verified_side": "136871843353823/12500000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "110": {
+    "n": 110,
+    "reported_side": "10.996783396631591639612746267957",
+    "verified_side": "10996783396631591639612746267957/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "111": {
+    "n": 111,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "112": {
+    "n": 112,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "113": {
+    "n": 113,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "114": {
+    "n": 114,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "115": {
+    "n": 115,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "116": {
+    "n": 116,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "117": {
+    "n": 117,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "118": {
+    "n": 118,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "119": {
+    "n": 119,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "120": {
+    "n": 120,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "121": {
+    "n": 121,
+    "reported_side": "11",
+    "verified_side": "11",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "122": {
+    "n": 122,
+    "reported_side": "8 + (5/2)\u221a2",
+    "verified_side": "576776695296637/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "123": {
+    "n": 123,
+    "reported_side": "11.601384658375975564388544443024",
+    "verified_side": "725086541148498472774284027689/62500000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "124": {
+    "n": 124,
+    "reported_side": "6 + 4 \u221a2",
+    "verified_side": "1165685424949239/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "125": {
+    "n": 125,
+    "reported_side": "11 + (1/2)\u221a2",
+    "verified_side": "234142135623731/20000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "126": {
+    "n": 126,
+    "reported_side": "11.774735132387832842560264587322",
+    "verified_side": "5887367566193916421280132293661/500000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "127": {
+    "n": 127,
+    "reported_side": "(21/2) + (1/2)\u221a7",
+    "verified_side": "118228756555323/10000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "128": {
+    "n": 128,
+    "reported_side": "11.82509196821368",
+    "verified_side": "1182509196821369/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "129": {
+    "n": 129,
+    "reported_side": "11.88130621809000",
+    "verified_side": "1188130621809001/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-fill.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "1": {
+    "n": 1,
+    "reported_side": "1",
+    "verified_side": "1",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "2": {
+    "n": 2,
+    "reported_side": "2",
+    "verified_side": "2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "3": {
+    "n": 3,
+    "reported_side": "2",
+    "verified_side": "2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "4": {
+    "n": 4,
+    "reported_side": "2",
+    "verified_side": "2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "5": {
+    "n": 5,
+    "reported_side": "2 + (1/2)\u221a2",
+    "verified_side": "2 + (1/2)\u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "6": {
+    "n": 6,
+    "reported_side": "3",
+    "verified_side": "3",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "7": {
+    "n": 7,
+    "reported_side": "3",
+    "verified_side": "3",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "8": {
+    "n": 8,
+    "reported_side": "3",
+    "verified_side": "3",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "9": {
+    "n": 9,
+    "reported_side": "3",
+    "verified_side": "3",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "10": {
+    "n": 10,
+    "reported_side": "3 + (1/2)\u221a2",
+    "verified_side": "3 + (1/2)\u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "11": {
+    "n": 11,
+    "reported_side": "3.87708359002281",
+    "verified_side": "root(P_trump11, 3.87708359002281417730789706010096)",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "12": {
+    "n": 12,
+    "reported_side": "4",
+    "verified_side": "4",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "13": {
+    "n": 13,
+    "reported_side": "4",
+    "verified_side": "4",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "14": {
+    "n": 14,
+    "reported_side": "4",
+    "verified_side": "4",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "15": {
+    "n": 15,
+    "reported_side": "4",
+    "verified_side": "4",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "16": {
+    "n": 16,
+    "reported_side": "4",
+    "verified_side": "4",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "17": {
+    "n": 17,
+    "reported_side": "4.67553009360455",
+    "verified_side": "23377650468022754758171074269267527/5000000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "18": {
+    "n": 18,
+    "reported_side": "(7/2) + (1/2)\u221a7",
+    "verified_side": "(7/2) + (1/2)\u221a7",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "19": {
+    "n": 19,
+    "reported_side": "3 + (4/3)\u221a2",
+    "verified_side": "3 + (4/3)\u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "20": {
+    "n": 20,
+    "reported_side": "5",
+    "verified_side": "5",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "21": {
+    "n": 21,
+    "reported_side": "5",
+    "verified_side": "5",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "22": {
+    "n": 22,
+    "reported_side": "5",
+    "verified_side": "5",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-initial.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "244": {
+    "n": 244,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "245": {
+    "n": 245,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "246": {
+    "n": 246,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "247": {
+    "n": 247,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "248": {
+    "n": 248,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "249": {
+    "n": 249,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "250": {
+    "n": 250,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "251": {
+    "n": 251,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "252": {
+    "n": 252,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "253": {
+    "n": 253,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "254": {
+    "n": 254,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "255": {
+    "n": 255,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "256": {
+    "n": 256,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "257": {
+    "n": 257,
+    "reported_side": "13 + (5/2)\u221a2",
+    "verified_side": "826776695296637/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "258": {
+    "n": 258,
+    "reported_side": "(19/2) + 5 \u221a2",
+    "verified_side": "414276695296637/25000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "259": {
+    "n": 259,
+    "reported_side": "16.602568490493364515381155942934",
+    "verified_side": "8301284245246682257690577971467/500000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "260": {
+    "n": 260,
+    "reported_side": "11 + 4 \u221a2",
+    "verified_side": "1665685424949239/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "261": {
+    "n": 261,
+    "reported_side": "16 + (28/41)",
+    "verified_side": "166829268292683/10000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "262": {
+    "n": 262,
+    "reported_side": "16 + (1/2)\u221a2",
+    "verified_side": "334142135623731/20000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "263": {
+    "n": 263,
+    "reported_side": "16.742270262025057683757892778345",
+    "verified_side": "3348454052405011536751578555669/200000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page",
+    "final_revisit_utc": "2026-10-07T18:35:00Z",
+    "final_snapshot": "sources/web-final-primary-refresh.txt",
+    "final_revisit_note": "Web reader says crawled today; no authenticated HEAD available",
+    "final_revisit_time_precision": "approximate minute; content hash and web source metadata are authoritative retrieval evidence"
+  },
+  "264": {
+    "n": 264,
+    "reported_side": "9 + (11/2)\u221a2",
+    "verified_side": "1677817459305203/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "265": {
+    "n": 265,
+    "reported_side": "9 + (11/2)\u221a2",
+    "verified_side": "1677817459305203/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "266": {
+    "n": 266,
+    "reported_side": "16.82306208283780",
+    "verified_side": "1682306208283781/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "267": {
+    "n": 267,
+    "reported_side": "16 - (1/2)\u221a2 + sqrt(1 + \u221a2)",
+    "verified_side": "1684666719284349/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "268": {
+    "n": 268,
+    "reported_side": "16.878814821006764724747121053018",
+    "verified_side": "8439407410503382362373560526509/500000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "269": {
+    "n": 269,
+    "reported_side": "16.905967058583840911467960094275",
+    "verified_side": "676238682343353636458718403771/40000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "270": {
+    "n": 270,
+    "reported_side": "16.937810329340954110200218669924",
+    "verified_side": "4234452582335238527550054667481/250000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "271": {
+    "n": 271,
+    "reported_side": "16.950820792624958786450490084388",
+    "verified_side": "4237705198156239696612622521097/250000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "272": {
+    "n": 272,
+    "reported_side": "16.968165867852158332894136646166",
+    "verified_side": "8484082933926079166447068323083/500000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page",
+    "final_revisit_utc": "2026-10-07T18:35:00Z",
+    "final_snapshot": "sources/web-final-primary-refresh.txt",
+    "final_revisit_note": "Web reader says crawled today; no authenticated HEAD available",
+    "final_revisit_time_precision": "approximate minute; content hash and web source metadata are authoritative retrieval evidence"
+  },
+  "273": {
+    "n": 273,
+    "reported_side": "16.983925962650404316108837346991",
+    "verified_side": "16983925962650404316108837346991/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "274": {
+    "n": 274,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "275": {
+    "n": 275,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "276": {
+    "n": 276,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "277": {
+    "n": 277,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "278": {
+    "n": 278,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "279": {
+    "n": 279,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "280": {
+    "n": 280,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "281": {
+    "n": 281,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "282": {
+    "n": 282,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "283": {
+    "n": 283,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "284": {
+    "n": 284,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "285": {
+    "n": 285,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "286": {
+    "n": 286,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "287": {
+    "n": 287,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "288": {
+    "n": 288,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "289": {
+    "n": 289,
+    "reported_side": "17",
+    "verified_side": "17",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "290": {
+    "n": 290,
+    "reported_side": "14 + (5/2)\u221a2",
+    "verified_side": "876776695296637/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "291": {
+    "n": 291,
+    "reported_side": "14 + (5/2)\u221a2",
+    "verified_side": "876776695296637/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "292": {
+    "n": 292,
+    "reported_side": "17.597249391199519",
+    "verified_side": "17597249391199519/1000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "293": {
+    "n": 293,
+    "reported_side": "17 + (26/41)",
+    "verified_side": "881707317073171/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "294": {
+    "n": 294,
+    "reported_side": "12 + 4 \u221a2",
+    "verified_side": "1765685424949239/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "295": {
+    "n": 295,
+    "reported_side": "17 + (1/2)\u221a2",
+    "verified_side": "354142135623731/20000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "296": {
+    "n": 296,
+    "reported_side": "17 + (1/2)\u221a2",
+    "verified_side": "354142135623731/20000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "297": {
+    "n": 297,
+    "reported_side": "17.74041728754380185115320576776",
+    "verified_side": "221755216094297523139415072097/12500000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "298": {
+    "n": 298,
+    "reported_side": "10 + (11/2)\u221a2",
+    "verified_side": "1777817459305203/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "299": {
+    "n": 299,
+    "reported_side": "(33/2) + (1/2)\u221a7",
+    "verified_side": "178228756555323/10000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "300": {
+    "n": 300,
+    "reported_side": "17.82412338847854",
+    "verified_side": "356482467769571/20000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "301": {
+    "n": 301,
+    "reported_side": "17.846667192843489783121781262887",
+    "verified_side": "17846667192843489783121781262887/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "302": {
+    "n": 302,
+    "reported_side": "17.885993892530410666666041882586",
+    "verified_side": "8942996946265205333333020941293/500000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "303": {
+    "n": 303,
+    "reported_side": "17.924341009851128373110514612828",
+    "verified_side": "4481085252462782093277628653207/250000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "304": {
+    "n": 304,
+    "reported_side": "17.934650018390681724105084929881",
+    "verified_side": "17934650018390681724105084929881/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "305": {
+    "n": 305,
+    "reported_side": "17.952959459015527962875662582531",
+    "verified_side": "17952959459015527962875662582531/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "306": {
+    "n": 306,
+    "reported_side": "17.963438139764002853611723469441",
+    "verified_side": "17963438139764002853611723469441/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "307": {
+    "n": 307,
+    "reported_side": "17.981030548633310696277454165157",
+    "verified_side": "17981030548633310696277454165157/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "308": {
+    "n": 308,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "309": {
+    "n": 309,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "310": {
+    "n": 310,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "311": {
+    "n": 311,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "312": {
+    "n": 312,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "313": {
+    "n": 313,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "314": {
+    "n": 314,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "315": {
+    "n": 315,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "316": {
+    "n": 316,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "317": {
+    "n": 317,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "318": {
+    "n": 318,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "319": {
+    "n": 319,
+    "reported_side": "18",
+    "verified_side": "18",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-detail1.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "238": {
+    "n": 238,
+    "reported_side": "15.931725503591328233767187231141",
+    "verified_side": "15931725503591328233767187231141/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "239": {
+    "n": 239,
+    "reported_side": "15.953819333480779915463620238818",
+    "verified_side": "7976909666740389957731810119409/500000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "240": {
+    "n": 240,
+    "reported_side": "15.969685337530780336056074320582",
+    "verified_side": "7984842668765390168028037160291/500000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "241": {
+    "n": 241,
+    "reported_side": "15.988132439524990848590591447359",
+    "verified_side": "15988132439524990848590591447359/1000000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "242": {
+    "n": 242,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "243": {
+    "n": 243,
+    "reported_side": "16",
+    "verified_side": "16",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "46": {
+    "n": 46,
+    "reported_side": "7",
+    "verified_side": "7",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "49": {
+    "n": 49,
+    "reported_side": "7",
+    "verified_side": "7",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "50": {
+    "n": 50,
+    "reported_side": "7 + (4/7)",
+    "verified_side": "378571428571429/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "51": {
+    "n": 51,
+    "reported_side": "7.70079923541701",
+    "verified_side": "385039961770851/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "52": {
+    "n": 52,
+    "reported_side": "7 + (1/2)\u221a2",
+    "verified_side": "7 + (1/2)\u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "53": {
+    "n": 53,
+    "reported_side": "(13/2) + (1/2)\u221a7",
+    "verified_side": "78228756555323/10000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "54": {
+    "n": 54,
+    "reported_side": "7 - (1/2)\u221a2 + sqrt(1 + \u221a2)",
+    "verified_side": "784666719284349/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "55": {
+    "n": 55,
+    "reported_side": "7.94577100750391",
+    "verified_side": "99322137593799/12500000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "56": {
+    "n": 56,
+    "reported_side": "8",
+    "verified_side": "8",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "57": {
+    "n": 57,
+    "reported_side": "8",
+    "verified_side": "8",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "58": {
+    "n": 58,
+    "reported_side": "8",
+    "verified_side": "8",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "59": {
+    "n": 59,
+    "reported_side": "8",
+    "verified_side": "8",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "60": {
+    "n": 60,
+    "reported_side": "8",
+    "verified_side": "8",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "61": {
+    "n": 61,
+    "reported_side": "8",
+    "verified_side": "8",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "62": {
+    "n": 62,
+    "reported_side": "8",
+    "verified_side": "8",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "63": {
+    "n": 63,
+    "reported_side": "8",
+    "verified_side": "8",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "64": {
+    "n": 64,
+    "reported_side": "8",
+    "verified_side": "8",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "65": {
+    "n": 65,
+    "reported_side": "5 + (5/2)\u221a2",
+    "verified_side": "5 + (5/2)\u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "66": {
+    "n": 66,
+    "reported_side": "3 + 4 \u221a2",
+    "verified_side": "3 + 4 \u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "67": {
+    "n": 67,
+    "reported_side": "8 + (1/2)\u221a2",
+    "verified_side": "8 + (1/2)\u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "68": {
+    "n": 68,
+    "reported_side": "8.798795237218283902664668919394",
+    "verified_side": "4399397618609141951332334459697/500000000000000000000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "69": {
+    "n": 69,
+    "reported_side": "8.82719465572973",
+    "verified_side": "441359732786487/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "70": {
+    "n": 70,
+    "reported_side": "8.88166675700900",
+    "verified_side": "888166675700901/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "71": {
+    "n": 71,
+    "reported_side": "8.94407155757031",
+    "verified_side": "111800894469629/12500000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "72": {
+    "n": 72,
+    "reported_side": "9",
+    "verified_side": "9",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "73": {
+    "n": 73,
+    "reported_side": "9",
+    "verified_side": "9",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "74": {
+    "n": 74,
+    "reported_side": "9",
+    "verified_side": "9",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "75": {
+    "n": 75,
+    "reported_side": "9",
+    "verified_side": "9",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "76": {
+    "n": 76,
+    "reported_side": "9",
+    "verified_side": "9",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "77": {
+    "n": 77,
+    "reported_side": "9",
+    "verified_side": "9",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "78": {
+    "n": 78,
+    "reported_side": "9",
+    "verified_side": "9",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "79": {
+    "n": 79,
+    "reported_side": "9",
+    "verified_side": "9",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "80": {
+    "n": 80,
+    "reported_side": "9",
+    "verified_side": "9",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "81": {
+    "n": 81,
+    "reported_side": "9",
+    "verified_side": "9",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "82": {
+    "n": 82,
+    "reported_side": "6 + (5/2)\u221a2",
+    "verified_side": "6 + (5/2)\u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "83": {
+    "n": 83,
+    "reported_side": "9.63475764863108",
+    "verified_side": "963475764863109/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "84": {
+    "n": 84,
+    "reported_side": "9 + (1/2)\u221a2",
+    "verified_side": "9 + (1/2)\u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "85": {
+    "n": 85,
+    "reported_side": "(11/2) + 3 \u221a2",
+    "verified_side": "(11/2) + 3 \u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "86": {
+    "n": 86,
+    "reported_side": "(17/2) + (1/2)\u221a7",
+    "verified_side": "(17/2) + (1/2)\u221a7",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "87": {
+    "n": 87,
+    "reported_side": "9.83881526994826",
+    "verified_side": "983881526994827/100000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "88": {
+    "n": 88,
+    "reported_side": "9.88815305375857",
+    "verified_side": "494407652687929/50000000000000",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  },
+  "89": {
+    "n": 89,
+    "reported_side": "5 + (7/2)\u221a2",
+    "verified_side": "5 + (7/2)\u221a2",
+    "source_url": "https://github.com/jlevy/squares/blob/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web-frontier-last.txt",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unavailable; rendered main page"
+  }
+}

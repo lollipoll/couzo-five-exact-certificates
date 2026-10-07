@@ -1,0 +1,145 @@
+[
+  {
+    "directory": "results/n130-branch1",
+    "n": 130,
+    "side_exact": "11911187706535762355538876217506692171605223029/1000000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "12993644461123782493307828394776971/1000000000000000000000000000000000000000000000",
+    "improves_snapshot": true,
+    "both_exact_checks_pass": true,
+    "sha256": "59511e9949d3e062cac79eb4ce1bc19597ddb59ff5ff60870f1936ec7f2dd6ae",
+    "retained_main_claim": false,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n130-branch2",
+    "n": 130,
+    "side_exact": "11911187706535762355538876013812043902764970249/1000000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "12993644461123986187956097235029751/1000000000000000000000000000000000000000000000",
+    "improves_snapshot": true,
+    "both_exact_checks_pass": true,
+    "sha256": "0ecdedf4406e5ecddcda580298d0f8d2974ffe272af45071143d9fc520359efe",
+    "retained_main_claim": true,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n130-contact-closure",
+    "n": 130,
+    "side_exact": "5955593853267934413361946344298446061085348137/500000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "6443586638053655701553938914651863/500000000000000000000000000000000000000000000",
+    "improves_snapshot": true,
+    "both_exact_checks_pass": true,
+    "sha256": "2f2852aae38956dfc8810153d8ae940fb78a402a5e3265c9abe9da1e308cb5a3",
+    "retained_main_claim": false,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n130-initial",
+    "n": 130,
+    "side_exact": "372224615829246150559680342296622755665402403/31250000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "402474440319657703377244334597597/31250000000000000000000000000000000000000000",
+    "improves_snapshot": true,
+    "both_exact_checks_pass": true,
+    "sha256": "dd7cadf42a0b2ffd59013fabaed8f1a351bef8c3ab676e9fb150268581f79522",
+    "retained_main_claim": false,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n130-source-repair",
+    "n": 130,
+    "side_exact": "744449231659297222451957605727484355495240627/62500000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "27548042394272515644504759373/62500000000000000000000000000000000000000000",
+    "improves_snapshot": true,
+    "both_exact_checks_pass": true,
+    "sha256": "efcbfbbef8c80e81839e18d0dab632487e6db1f0ee7053c5363accc139ad3a74",
+    "retained_main_claim": false,
+    "classification": "source export repair"
+  },
+  {
+    "directory": "results/n130-stationary-polished",
+    "n": 130,
+    "side_exact": "11911189517297800715005226516403274274399412721/1000000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "-1810749044715005226516403274274399412721/1000000000000000000000000000000000000000000000",
+    "improves_snapshot": false,
+    "both_exact_checks_pass": true,
+    "sha256": "862e16c76aa5bc8df0c07cbfff37773b2e85b635f578f0d053185ea4f1a2b0c3",
+    "retained_main_claim": false,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n292-axis-limit",
+    "n": 292,
+    "side_exact": "8798624716322213552390342795965846405872213167/500000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "-20722454052390342795965846405872213167/500000000000000000000000000000000000000000000",
+    "improves_snapshot": false,
+    "both_exact_checks_pass": true,
+    "sha256": "d41d94e526de70acecaab5882b629b8cd3e9d8f024a587d92bc15e918ad9a859",
+    "retained_main_claim": false,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n292-branch1",
+    "n": 292,
+    "side_exact": "17597249432519706824670432692076223447386397147/1000000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "-41320187824670432692076223447386397147/1000000000000000000000000000000000000000000000",
+    "improves_snapshot": false,
+    "both_exact_checks_pass": true,
+    "sha256": "47abc5481b74b5a4befc633848a72946ce11132d6442d39a1a9f078fe0431487",
+    "retained_main_claim": false,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n292-branch2",
+    "n": 292,
+    "side_exact": "17597249391156465040471442005510391858592626557/1000000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "43053959528557994489608141407373443/1000000000000000000000000000000000000000000000",
+    "improves_snapshot": true,
+    "both_exact_checks_pass": true,
+    "sha256": "b8d55be6e49b524bb1035b6bcc660316e35c0faa580ad57f715798815e43679e",
+    "retained_main_claim": true,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n292-corner-polished",
+    "n": 292,
+    "side_exact": "351944987823129300809613804328056972080737689/20000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "861079190386195671943027919262311/20000000000000000000000000000000000000000000",
+    "improves_snapshot": true,
+    "both_exact_checks_pass": true,
+    "sha256": "44ebafebe480ff64ba0e1bd3c117c640d701e2944094216295f595873a2b4227",
+    "retained_main_claim": false,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n292-original-branch-export",
+    "n": 292,
+    "side_exact": "17597249391156465040481032876697128444181264469/1000000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "43053959518967123302871555818735531/1000000000000000000000000000000000000000000000",
+    "improves_snapshot": true,
+    "both_exact_checks_pass": true,
+    "sha256": "e5b44357439cd55bb14a0d75635957970872b5be50caa394a3f060a1557272df",
+    "retained_main_claim": false,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n292-partial-repaired",
+    "n": 292,
+    "side_exact": "4399312347792469543930159849431393395594892869/250000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "7410206069840150568606604405107131/250000000000000000000000000000000000000000000",
+    "improves_snapshot": true,
+    "both_exact_checks_pass": true,
+    "sha256": "e97b6df2b60211250a73ce606cefb55f30413469064c2df06e799600e009ce93",
+    "retained_main_claim": false,
+    "classification": "contact refinement or rejected larger repaired endpoint; see report"
+  },
+  {
+    "directory": "results/n292-source-repair",
+    "n": 292,
+    "side_exact": "8798624695599759454544492120707027362358767099/500000000000000000000000000000000000000000000",
+    "gain_vs_snapshot": "45455507879292972637641232901/500000000000000000000000000000000000000000000",
+    "improves_snapshot": true,
+    "both_exact_checks_pass": true,
+    "sha256": "9b5b0b0deea46385e4a285c3d0b842e449ac5d7326385a7cb8c3eba20ae9f8b4",
+    "retained_main_claim": false,
+    "classification": "source export repair"
+  }
+]

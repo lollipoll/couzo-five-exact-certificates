@@ -1,0 +1,17 @@
+{
+  "date_utc": "2026-10-07T22:40:01.102178+00:00",
+  "archive": "couzo-five-exact-reviewed-20261007.tar.gz",
+  "archive_sha256": "d1185848ddac327f0ed8bf7f7d458e065362b47f1989c75e4b4cab2146de1614",
+  "commands": [
+    {
+      "command": "python3 verify.py",
+      "exit_code": 0
+    },
+    {
+      "command": "python3 code/review_support.py",
+      "exit_code": 0
+    }
+  ],
+  "working_directory": "fresh safe extraction of the unmodified reviewed archive",
+  "review_scope": "Repeat of reviewed implementations; not a new independent review or register-side verification"
+}

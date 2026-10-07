@@ -1,0 +1,8 @@
+{
+  "login": "lollipoll",
+  "type": "User",
+  "html_url": "https://github.com/lollipoll",
+  "reference_repository": "https://github.com/lollipoll/certified-square-packing-68",
+  "viewerPermission": "ADMIN",
+  "basis": "Authenticated gh api user and gh repo view returned these fields; no credentials retained"
+}

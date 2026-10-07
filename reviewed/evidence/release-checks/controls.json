@@ -1,0 +1,182 @@
+[
+  {
+    "control": "touching",
+    "expected": true,
+    "results": [
+      {
+        "checker": "first",
+        "accepted": true
+      },
+      {
+        "checker": "second",
+        "accepted": true
+      },
+      {
+        "checker": "legacy",
+        "accepted": true
+      }
+    ]
+  },
+  {
+    "control": "overlap_1e-80",
+    "expected": false,
+    "results": [
+      {
+        "checker": "first",
+        "accepted": false
+      },
+      {
+        "checker": "second",
+        "accepted": false
+      },
+      {
+        "checker": "legacy",
+        "accepted": false
+      }
+    ]
+  },
+  {
+    "control": "gap_1e-80",
+    "expected": true,
+    "results": [
+      {
+        "checker": "first",
+        "accepted": true
+      },
+      {
+        "checker": "second",
+        "accepted": true
+      },
+      {
+        "checker": "legacy",
+        "accepted": true
+      }
+    ]
+  },
+  {
+    "control": "wall_touching",
+    "expected": true,
+    "results": [
+      {
+        "checker": "first",
+        "accepted": true
+      },
+      {
+        "checker": "second",
+        "accepted": true
+      },
+      {
+        "checker": "legacy",
+        "accepted": true
+      }
+    ]
+  },
+  {
+    "control": "wall_protrusion_1e-80",
+    "expected": false,
+    "results": [
+      {
+        "checker": "first",
+        "accepted": false
+      },
+      {
+        "checker": "second",
+        "accepted": false
+      },
+      {
+        "checker": "legacy",
+        "accepted": false
+      }
+    ]
+  },
+  {
+    "control": "wrong_inventory",
+    "expected": false,
+    "results": [
+      {
+        "checker": "first",
+        "accepted": false
+      },
+      {
+        "checker": "second",
+        "accepted": false
+      },
+      {
+        "checker": "legacy",
+        "accepted": false
+      }
+    ]
+  },
+  {
+    "control": "zero_box",
+    "expected": false,
+    "results": [
+      {
+        "checker": "first",
+        "accepted": false
+      },
+      {
+        "checker": "second",
+        "accepted": false
+      },
+      {
+        "checker": "legacy",
+        "accepted": false
+      }
+    ]
+  },
+  {
+    "control": "negative_box",
+    "expected": false,
+    "results": [
+      {
+        "checker": "first",
+        "accepted": false
+      },
+      {
+        "checker": "second",
+        "accepted": false
+      },
+      {
+        "checker": "legacy",
+        "accepted": false
+      }
+    ]
+  },
+  {
+    "control": "wrong_schema",
+    "expected": false,
+    "results": [
+      {
+        "checker": "first",
+        "accepted": false
+      },
+      {
+        "checker": "second",
+        "accepted": false
+      },
+      {
+        "checker": "legacy",
+        "accepted": false
+      }
+    ]
+  },
+  {
+    "control": "extra_square",
+    "expected": false,
+    "results": [
+      {
+        "checker": "first",
+        "accepted": false
+      },
+      {
+        "checker": "second",
+        "accepted": false
+      },
+      {
+        "checker": "legacy",
+        "accepted": false
+      }
+    ]
+  }
+]

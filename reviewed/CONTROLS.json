@@ -1,0 +1,207 @@
+[
+  {
+    "name": "touching",
+    "data": {
+      "schema": "packing-n/exact-v1",
+      "n": 2,
+      "container_side": "4",
+      "squares": [
+        {
+          "x": "0",
+          "y": "0",
+          "t": "0"
+        },
+        {
+          "x": "1",
+          "y": "0",
+          "t": "0"
+        }
+      ]
+    },
+    "expected_n": 2,
+    "accept": true
+  },
+  {
+    "name": "overlap_1e-80",
+    "data": {
+      "schema": "packing-n/exact-v1",
+      "n": 2,
+      "container_side": "4",
+      "squares": [
+        {
+          "x": "0",
+          "y": "0",
+          "t": "0"
+        },
+        {
+          "x": "99999999999999999999999999999999999999999999999999999999999999999999999999999999/100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "y": "0",
+          "t": "0"
+        }
+      ]
+    },
+    "expected_n": 2,
+    "accept": false
+  },
+  {
+    "name": "gap_1e-80",
+    "data": {
+      "schema": "packing-n/exact-v1",
+      "n": 2,
+      "container_side": "4",
+      "squares": [
+        {
+          "x": "0",
+          "y": "0",
+          "t": "0"
+        },
+        {
+          "x": "100000000000000000000000000000000000000000000000000000000000000000000000000000001/100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "y": "0",
+          "t": "0"
+        }
+      ]
+    },
+    "expected_n": 2,
+    "accept": true
+  },
+  {
+    "name": "wall_touching",
+    "data": {
+      "schema": "packing-n/exact-v1",
+      "n": 1,
+      "container_side": "1",
+      "squares": [
+        {
+          "x": "0",
+          "y": "0",
+          "t": "0"
+        }
+      ]
+    },
+    "expected_n": 1,
+    "accept": true
+  },
+  {
+    "name": "wall_protrusion_1e-80",
+    "data": {
+      "schema": "packing-n/exact-v1",
+      "n": 1,
+      "container_side": "1",
+      "squares": [
+        {
+          "x": "1/100000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "y": "0",
+          "t": "0"
+        }
+      ]
+    },
+    "expected_n": 1,
+    "accept": false
+  },
+  {
+    "name": "wrong_inventory",
+    "data": {
+      "schema": "packing-n/exact-v1",
+      "n": 2,
+      "container_side": "4",
+      "squares": [
+        {
+          "x": "0",
+          "y": "0",
+          "t": "0"
+        },
+        {
+          "x": "1",
+          "y": "0",
+          "t": "0"
+        }
+      ]
+    },
+    "expected_n": 3,
+    "accept": false
+  },
+  {
+    "name": "zero_box",
+    "data": {
+      "schema": "packing-n/exact-v1",
+      "n": 1,
+      "container_side": "0",
+      "squares": [
+        {
+          "x": "0",
+          "y": "0",
+          "t": "0"
+        }
+      ]
+    },
+    "expected_n": 1,
+    "accept": false
+  },
+  {
+    "name": "negative_box",
+    "data": {
+      "schema": "packing-n/exact-v1",
+      "n": 1,
+      "container_side": "-1",
+      "squares": [
+        {
+          "x": "0",
+          "y": "0",
+          "t": "0"
+        }
+      ]
+    },
+    "expected_n": 1,
+    "accept": false
+  },
+  {
+    "name": "wrong_schema",
+    "data": {
+      "schema": "unknown",
+      "n": 2,
+      "container_side": "4",
+      "squares": [
+        {
+          "x": "0",
+          "y": "0",
+          "t": "0"
+        },
+        {
+          "x": "1",
+          "y": "0",
+          "t": "0"
+        }
+      ]
+    },
+    "expected_n": 2,
+    "accept": false
+  },
+  {
+    "name": "extra_square",
+    "data": {
+      "schema": "packing-n/exact-v1",
+      "n": 2,
+      "container_side": "4",
+      "squares": [
+        {
+          "x": "0",
+          "y": "0",
+          "t": "0"
+        },
+        {
+          "x": "1",
+          "y": "0",
+          "t": "0"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "t": "0"
+        }
+      ]
+    },
+    "expected_n": 2,
+    "accept": false
+  }
+]

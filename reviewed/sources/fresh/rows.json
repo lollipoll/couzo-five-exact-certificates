@@ -1,0 +1,37 @@
+{
+  "130": {
+    "reported_upper": "11.911187706548755",
+    "verified_ceiling": "2977796926637189/250000000000000",
+    "snapshot": "sources/fresh/fresh_web_more.txt",
+    "snapshot_sha256": "3490eb7db6b4454d743c0930ece7423efb00a72f77f59c0f571d173df10be645",
+    "row": "L137: | [`130`](n-130.md) | `11.911187706548755` | `2977796926637189/250000000000000` | `11.44030650891` | `1/2 + sqrt(130 - floor(√130) + 1/4)` | open | upper: replayed here; lower: external proof (read here), audited here | formal lower differs from report; reported lower: defect recorded | 2026-09-29 |"
+  },
+  "292": {
+    "reported_upper": "17.597249391199519",
+    "verified_ceiling": "17597249391199519/1000000000000000",
+    "snapshot": "sources/fresh/fresh_web_more.txt",
+    "snapshot_sha256": "3490eb7db6b4454d743c0930ece7423efb00a72f77f59c0f571d173df10be645",
+    "row": "L299: | [`292`](n-292.md) | `17.597249391199519` | `17597249391199519/1000000000000000` | `8*√34/145 + 2*√2 + 2031/145` | `1/2 + sqrt(292 - floor(√292) + 1/4)` | open | upper: replayed here; lower: external proof (read here), audited here | formal lower differs from report; reported lower: defect recorded | 2026-10-02 |"
+  },
+  "105": {
+    "reported_upper": "10.806077865540567",
+    "verified_ceiling": "1350759733192571/125000000000000",
+    "snapshot": "sources/fresh/fresh_web_rows.txt",
+    "snapshot_sha256": "492e04121a5f1989cb452572ab9ac22e8a6245aab8d6620ebcc0f8cfa4aea569",
+    "row": "L112: | [`105`](n-105.md) | `10.806077865540567` | `1350759733192571/125000000000000` | `257/25` | `257/25` | open | upper: replayed here; lower: replayed here | — | 2026-10-02 |"
+  },
+  "263": {
+    "reported_upper": "16.742270262025057683757892778345",
+    "verified_ceiling": "3348454052405011536751578555669/200000000000000000000000000000",
+    "snapshot": "sources/fresh/fresh_web_rows.txt",
+    "snapshot_sha256": "492e04121a5f1989cb452572ab9ac22e8a6245aab8d6620ebcc0f8cfa4aea569",
+    "row": "L270: | [`263`](n-263.md) | `16.742270262025057683757892778345` | `3348454052405011536751578555669/200000000000000000000000000000` | `16.23154621172` | `1/2 + sqrt(263 - floor(√263) + 1/4)` | open | upper: replayed here; lower: external proof (read here), audited here | formal lower differs from report; reported lower: defect recorded | 2026-10-05 |"
+  },
+  "272": {
+    "reported_upper": "16.968165867852158332894136646166",
+    "verified_ceiling": "8484082933926079166447068323083/500000000000000000000000000000",
+    "snapshot": "sources/fresh/fresh_web_rows.txt",
+    "snapshot_sha256": "492e04121a5f1989cb452572ab9ac22e8a6245aab8d6620ebcc0f8cfa4aea569",
+    "row": "L279: | [`272`](n-272.md) | `16.968165867852158332894136646166` | `8484082933926079166447068323083/500000000000000000000000000000` | `16.52417469626` | `1/2 + sqrt(272 - floor(√272) + 1/4)` | open | upper: replayed here; lower: external proof (read here), audited here | formal lower differs from report; reported lower: defect recorded | 2026-10-05 |"
+  }
+}

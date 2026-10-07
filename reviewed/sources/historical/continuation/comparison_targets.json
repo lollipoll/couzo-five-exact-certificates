@@ -1,0 +1,492 @@
+{
+  "68": {
+    "n": 68,
+    "reported_side": "8.798795237218283902664668919394",
+    "verified_side": "4399397618609141951332334459697/500000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/initial-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "4399397618609141951332334459697/500000000000000000000000000000"
+  },
+  "206": {
+    "n": 206,
+    "reported_side": "14.860158663391903236840250629824",
+    "verified_side": "232189979115498488075628916091/15625000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "232189979115498488075628916091/15625000000000000000000000000"
+  },
+  "237": {
+    "n": 237,
+    "reported_side": "15.911191683001783031028912780176",
+    "verified_side": "994449480187611439439307048761/62500000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "994449480187611439439307048761/62500000000000000000000000000"
+  },
+  "297": {
+    "n": 297,
+    "reported_side": "17.74041728754380185115320576776",
+    "verified_side": "221755216094297523139415072097/12500000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "221755216094297523139415072097/12500000000000000000000000000"
+  },
+  "110": {
+    "n": 110,
+    "reported_side": "10.996783396631591639612746267957",
+    "verified_side": "10996783396631591639612746267957/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/initial-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "10996783396631591639612746267957/1000000000000000000000000000000"
+  },
+  "180": {
+    "n": 180,
+    "reported_side": "13.927888140498096339178993024781",
+    "verified_side": "13927888140498096339178993024781/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "13927888140498096339178993024781/1000000000000000000000000000000"
+  },
+  "102": {
+    "n": 102,
+    "reported_side": "10.607174680176051125448595024891",
+    "verified_side": "10607174680176051125448595024891/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/initial-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "10607174680176051125448595024891/1000000000000000000000000000000"
+  },
+  "154": {
+    "n": 154,
+    "reported_side": "12.931663721166847019324363825319",
+    "verified_side": "12931663721166847019324363825319/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-middle.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "12931663721166847019324363825319/1000000000000000000000000000000"
+  },
+  "156": {
+    "n": 156,
+    "reported_side": "12.982082698516893102076828502036",
+    "verified_side": "3245520674629223275519207125509/250000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-middle.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "3245520674629223275519207125509/250000000000000000000000000000"
+  },
+  "268": {
+    "n": 268,
+    "reported_side": "16.878814821006764724747121053018",
+    "verified_side": "8439407410503382362373560526509/500000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "8439407410503382362373560526509/500000000000000000000000000000"
+  },
+  "228": {
+    "n": 228,
+    "reported_side": "15.604602454546056967137037190451",
+    "verified_side": "15604602454546056967137037190451/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "15604602454546056967137037190451/1000000000000000000000000000000"
+  },
+  "305": {
+    "n": 305,
+    "reported_side": "17.952959459015527962875662582531",
+    "verified_side": "17952959459015527962875662582531/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "17952959459015527962875662582531/1000000000000000000000000000000"
+  },
+  "292": {
+    "n": 292,
+    "reported_side": "17.597249391199519",
+    "verified_side": "17597249391199519/1000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "17597249391199519/1000000000000000"
+  },
+  "263": {
+    "n": 263,
+    "reported_side": "16.742270262025057683757892778345",
+    "verified_side": "3348454052405011536751578555669/200000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "3348454052405011536751578555669/200000000000000000000000000000"
+  },
+  "307": {
+    "n": 307,
+    "reported_side": "17.981030548633310696277454165157",
+    "verified_side": "17981030548633310696277454165157/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "17981030548633310696277454165157/1000000000000000000000000000000"
+  },
+  "199": {
+    "n": 199,
+    "reported_side": "14.61898895689939842900969151892",
+    "verified_side": "365474723922484960725242287973/25000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "365474723922484960725242287973/25000000000000000000000000000"
+  },
+  "272": {
+    "n": 272,
+    "reported_side": "16.968165867852158332894136646166",
+    "verified_side": "8484082933926079166447068323083/500000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-last.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "8484082933926079166447068323083/500000000000000000000000000000"
+  },
+  "239": {
+    "n": 239,
+    "reported_side": "15.953819333480779915463620238818",
+    "verified_side": "7976909666740389957731810119409/500000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-last.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "7976909666740389957731810119409/500000000000000000000000000000"
+  },
+  "210": {
+    "n": 210,
+    "reported_side": "14.973001116587625741983018050468",
+    "verified_side": "3743250279146906435495754512617/250000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "3743250279146906435495754512617/250000000000000000000000000000"
+  },
+  "105": {
+    "n": 105,
+    "reported_side": "10.806077865540567",
+    "verified_side": "1350759733192571/125000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/initial-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "1350759733192571/125000000000000"
+  },
+  "181": {
+    "n": 181,
+    "reported_side": "13.953748821954402498045544433567",
+    "verified_side": "13953748821954402498045544433567/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "13953748821954402498045544433567/1000000000000000000000000000000"
+  },
+  "132": {
+    "n": 132,
+    "reported_side": "11.991327887691501411687842131585",
+    "verified_side": "2398265577538300282337568426317/200000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "2398265577538300282337568426317/200000000000000000000000000000"
+  },
+  "131": {
+    "n": 131,
+    "reported_side": "11.954916830216124410139679227683",
+    "verified_side": "11954916830216124410139679227683/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "11954916830216124410139679227683/1000000000000000000000000000000"
+  },
+  "106": {
+    "n": 106,
+    "reported_side": "10.822908044132847555194436943331",
+    "verified_side": "10822908044132847555194436943331/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/initial-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "10822908044132847555194436943331/1000000000000000000000000000000"
+  },
+  "152": {
+    "n": 152,
+    "reported_side": "12.830718800976609954993823643412",
+    "verified_side": "3207679700244152488748455910853/250000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-middle.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "3207679700244152488748455910853/250000000000000000000000000000"
+  },
+  "209": {
+    "n": 209,
+    "reported_side": "14.953939011857122362887224108935",
+    "verified_side": "2990787802371424472577444821787/200000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "2990787802371424472577444821787/200000000000000000000000000000"
+  },
+  "207": {
+    "n": 207,
+    "reported_side": "14.893954634237227388391298332204",
+    "verified_side": "3723488658559306847097824583051/250000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "3723488658559306847097824583051/250000000000000000000000000000"
+  },
+  "238": {
+    "n": 238,
+    "reported_side": "15.931725503591328233767187231141",
+    "verified_side": "15931725503591328233767187231141/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "15931725503591328233767187231141/1000000000000000000000000000000"
+  },
+  "177": {
+    "n": 177,
+    "reported_side": "13.822979734169448600231882896281",
+    "verified_side": "13822979734169448600231882896281/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "13822979734169448600231882896281/1000000000000000000000000000000"
+  },
+  "155": {
+    "n": 155,
+    "reported_side": "12.95561959213445243801096476729",
+    "verified_side": "1295561959213445243801096476729/100000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-middle.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "1295561959213445243801096476729/100000000000000000000000000000"
+  },
+  "172": {
+    "n": 172,
+    "reported_side": "13.61898895689939842899969151892",
+    "verified_side": "340474723922484960724992287973/25000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-middle.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "340474723922484960724992287973/25000000000000000000000000000"
+  },
+  "269": {
+    "n": 269,
+    "reported_side": "16.905967058583840911467960094275",
+    "verified_side": "676238682343353636458718403771/40000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "676238682343353636458718403771/40000000000000000000000000000"
+  },
+  "130": {
+    "n": 130,
+    "reported_side": "11.911187706548755",
+    "verified_side": "2977796926637189/250000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "2977796926637189/250000000000000"
+  },
+  "123": {
+    "n": 123,
+    "reported_side": "11.601384658375975564388544443024",
+    "verified_side": "725086541148498472774284027689/62500000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-last.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "725086541148498472774284027689/62500000000000000000000000000"
+  },
+  "240": {
+    "n": 240,
+    "reported_side": "15.969685337530780336056074320582",
+    "verified_side": "7984842668765390168028037160291/500000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-last.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "7984842668765390168028037160291/500000000000000000000000000000"
+  },
+  "241": {
+    "n": 241,
+    "reported_side": "15.988132439524990848590591447359",
+    "verified_side": "15988132439524990848590591447359/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-last.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "15988132439524990848590591447359/1000000000000000000000000000000"
+  },
+  "208": {
+    "n": 208,
+    "reported_side": "14.926534459699423246906428356506",
+    "verified_side": "7463267229849711623453214178253/500000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "7463267229849711623453214178253/500000000000000000000000000000"
+  },
+  "273": {
+    "n": 273,
+    "reported_side": "16.983925962650404316108837346991",
+    "verified_side": "16983925962650404316108837346991/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-last.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "16983925962650404316108837346991/1000000000000000000000000000000"
+  },
+  "271": {
+    "n": 271,
+    "reported_side": "16.950820792624958786450490084388",
+    "verified_side": "4237705198156239696612622521097/250000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-last.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "4237705198156239696612622521097/250000000000000000000000000000"
+  },
+  "306": {
+    "n": 306,
+    "reported_side": "17.963438139764002853611723469441",
+    "verified_side": "17963438139764002853611723469441/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "17963438139764002853611723469441/1000000000000000000000000000000"
+  },
+  "182": {
+    "n": 182,
+    "reported_side": "13.974090713121439007150130032772",
+    "verified_side": "3493522678280359751787532508193/250000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "3493522678280359751787532508193/250000000000000000000000000000"
+  },
+  "270": {
+    "n": 270,
+    "reported_side": "16.937810329340954110200218669924",
+    "verified_side": "4234452582335238527550054667481/250000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-last.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "4234452582335238527550054667481/250000000000000000000000000000"
+  },
+  "302": {
+    "n": 302,
+    "reported_side": "17.885993892530410666666041882586",
+    "verified_side": "8942996946265205333333020941293/500000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "8942996946265205333333020941293/500000000000000000000000000000"
+  },
+  "259": {
+    "n": 259,
+    "reported_side": "16.602568490493364515381155942934",
+    "verified_side": "8301284245246682257690577971467/500000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/status-completion.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "8301284245246682257690577971467/500000000000000000000000000000"
+  },
+  "236": {
+    "n": 236,
+    "reported_side": "15.87221902560728287835395301986",
+    "verified_side": "793610951280364143917697650993/50000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "793610951280364143917697650993/50000000000000000000000000000"
+  },
+  "303": {
+    "n": 303,
+    "reported_side": "17.924341009851128373110514612828",
+    "verified_side": "4481085252462782093277628653207/250000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "4481085252462782093277628653207/250000000000000000000000000000"
+  },
+  "304": {
+    "n": 304,
+    "reported_side": "17.934650018390681724105084929881",
+    "verified_side": "17934650018390681724105084929881/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "17934650018390681724105084929881/1000000000000000000000000000000"
+  },
+  "301": {
+    "n": 301,
+    "reported_side": "17.846667192843489783121781262887",
+    "verified_side": "17846667192843489783121781262887/1000000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/refresh-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "17846667192843489783121781262887/1000000000000000000000000000000"
+  },
+  "103": {
+    "n": 103,
+    "reported_side": "10.703516755572542008729416503972",
+    "verified_side": "2675879188893135502182354125993/250000000000000000000000000000",
+    "source_url": "https://raw.githubusercontent.com/jlevy/squares/main/packing/frontier/STATUS.md",
+    "snapshot": "sources/web/initial-response.json",
+    "retrieval_date": "2026-10-07",
+    "upstream_revision": "unknown; web reader current main",
+    "prior_verified_side": "2675879188893135502182354125993/250000000000000000000000000000"
+  }
+}
