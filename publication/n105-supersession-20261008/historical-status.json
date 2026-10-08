@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-08",
-  "retrieval_completed_utc": "2026-10-08T02:56:11.567345+00:00",
+  "date": "2026-10-07",
+  "retrieval_completed_utc": "2026-10-07T23:18:26.535004+00:00",
   "scope": "Dated pinned comparison to retrieved register records and relevant pending source certificates. Not a worldwide-priority or optimality claim.",
   "archive_unchanged": true,
   "scientific_release_tag": "v1.0.0",
@@ -15,13 +15,13 @@
   "source_manifest": "publication/refresh-20261007/source-manifest.json",
   "replay_receipts": "publication/refresh-20261007/source-replays.json",
   "reused_witness_checks": "publication/refresh-20261007/reused-witness-checks.json",
-  "historical_status": "publication/n105-supersession-20261008/historical-status.json",
+  "historical_status": "publication/refresh-20261007/historical-publication-status-2240UTC.json",
   "comparison_unresolved": "At the pinned register revision, n263 has the earlier SQUISH side, while issue #422 supplies a still smaller replayed certificate; n272 still has the older side, while issue #399 supplies a smaller replayed Daniel certificate. Our status uses the smaller source bounds. Later/private/unindexed results are outside this dated retrieval.",
   "requested_ceiling_counts": [
+    105,
     292
   ],
   "superseded_counts": [
-    105,
     130,
     263,
     272
@@ -53,24 +53,13 @@
           "replay_receipt": "publication/refresh-20261007/source-replays.json",
           "pairs": 5460,
           "tolerance": "0"
-        },
-        {
-          "author": "Ryan Xu (ry-xu)",
-          "side": "53953382877053953382877/5000000000000000000000",
-          "sha256": "b251c331b00b5e6e4041b4253c4e46e2afcaa55c291ee6962b890d3c0947f02a",
-          "revision": "8dc415296f697f5140caea27c7a0193d52deb4e6",
-          "url": "https://github.com/ry-xu/square_packing/blob/8dc415296f697f5140caea27c7a0193d52deb4e6/certificates/n105/n105.cert.json",
-          "checked_here": true,
-          "replay_receipt": "publication/n105-supersession-20261008/replay.json",
-          "pairs": 5460,
-          "tolerance": "0"
         }
       ],
-      "best_retrieved_source_or_register_exact": "53953382877053953382877/5000000000000000000000",
-      "best_retrieved_minus_ours": "-770064505445697799975267522385760199372637/50000000000000000000000000000000000000000000",
-      "best_retrieved_minus_ours_decimal": "-0.01540129010891395599950535044771520398745274",
-      "status": "superseded historical refinement",
-      "request_ceiling_change": false,
+      "best_retrieved_source_or_register_exact": "5403038932759852316341483064551/500000000000000000000000000000",
+      "best_retrieved_minus_ours": "5403038932714239800627363/50000000000000000000000000000000000000000000",
+      "best_retrieved_minus_ours_decimal": "1.0806077865428479601254726E-19",
+      "status": "ceiling review requested; below retrieved register and source certificates",
+      "request_ceiling_change": true,
       "unrestricted_lower_change": null
     },
     {
@@ -261,6 +250,5 @@
       "request_ceiling_change": true,
       "unrestricted_lower_change": null
     }
-  ],
-  "n105_correction": "publication/n105-supersession-20261008/comparison.json"
+  ]
 }

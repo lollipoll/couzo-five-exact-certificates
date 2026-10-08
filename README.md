@@ -1,3 +1,10 @@
+**Current status — 7 October 2026 (America/Chicago), 8 October UTC: n=292 is the only active ceiling request.** The n=105 request is now historical: [Ryan Xu's newly retrieved exact construction](https://github.com/ry-xu/square_packing/blob/8dc415296f697f5140caea27c7a0193d52deb4e6/certificates/n105/n105.cert.json), submitted in [#432](https://github.com/jlevy/squares/issues/432), has side `53953382877053953382877/5000000000000000000000 = 10.7906765754107906765754`. Both supplied, separately implemented exact geometry checkers passed unit geometry, containment and all 5,460 pairs at zero tolerance. It is smaller than our earlier n105 witness by exactly `770064505445697799975267522385760199372637/50000000000000000000000000000000000000000000` (approximately `0.015401290108913956`). Our earlier certificate remains valid. n130, n263 and n272 remain historical as previously recorded. [PR #434](https://github.com/jlevy/squares/pull/434) confirms finite rational witnesses; it does not review the new algebraic n68 proof. No new lower-bound or worldwide-priority claim is made.
+
+See [the exact comparison](publication/n105-supersession-20261008/comparison.json), [replay receipt](publication/n105-supersession-20261008/replay.json), and [offline replay](publication/n105-supersession-20261008/replay.py): `python3 -B publication/n105-supersession-20261008/replay.py`. Source SHA256: `b251c331b00b5e6e4041b4253c4e46e2afcaa55c291ee6962b890d3c0947f02a`. Checkers share the rational half-angle representation and separating-axis theorem; this is no claim of independent authorship or human review. Original witnesses, reviewed archive bytes, release assets, tags and dated history are preserved.
+
+<details>
+<summary>Earlier dated status and original reproduction instructions — historical</summary>
+
 # Exact certificate refinements of five Couzo square packings
 
 **Publication status corrected 7 October 2026, 23:18 UTC:** [issue #425](https://github.com/jlevy/squares/issues/425) requests ceiling review for **n=105 and n=292 only**. Our **n=130, n=263 and n=272** certificates are valid historical supporting work. Register review is pending.
@@ -33,3 +40,5 @@ python3 -B publication/refresh-20261007/check_sources.py --support-checker revie
 The [reproduction guide](reviewed/REPRODUCIBILITY.txt), [implementation review](reviewed/EXTERNAL_REVIEW.txt), and [original successful receipts](publication/receipts/) describe the unchanged witness checks. Those receipts are reused by witness/checker hash; new source replay receipts are linked above. The ChatGPT/Codex review was not human peer review or register verification. The n105 dual theorem fixes orientations and selected separators: **no unrestricted lower-bound change is requested at any count**.
 
 [Existing licence notices](reviewed/LICENSE_NOTICES.txt) are retained; no blanket source licence is assigned. Daniel's copied certificates retain his [MIT notice](publication/refresh-20261007/sources/daniel/LICENSE). Register snapshots are credited to Joshua Levy and the squares project.
+
+</details>

@@ -1,0 +1,19 @@
+{
+  "date_utc": "2026-10-08T02:56:11.567345+00:00",
+  "n": 105,
+  "historical_our_exact": "540303893275985231628745267522385760199372637/50000000000000000000000000000000000000000000",
+  "ry_xu_exact": "53953382877053953382877/5000000000000000000000",
+  "our_minus_ry_xu_exact": "770064505445697799975267522385760199372637/50000000000000000000000000000000000000000000",
+  "our_minus_ry_xu_decimal": "0.01540129010891395599950535044771520398745274",
+  "source_revision": "8dc415296f697f5140caea27c7a0193d52deb4e6",
+  "source_sha256": "b251c331b00b5e6e4041b4253c4e46e2afcaa55c291ee6962b890d3c0947f02a",
+  "source_url": "https://github.com/ry-xu/square_packing/blob/8dc415296f697f5140caea27c7a0193d52deb4e6/certificates/n105/n105.cert.json",
+  "pairs_per_checker": 5460,
+  "tolerance": "0",
+  "status": "superseded historical refinement; earlier certificate remains valid",
+  "active_request_counts": [
+    292
+  ],
+  "register_revision": "f747407a0fa83d80a7894331c770aeb314b23163",
+  "n292_note": "No superseding source found in current register, pending submissions, or unchanged evand source revision. Original exact witness remains the active request; no worldwide-priority assertion."
+}

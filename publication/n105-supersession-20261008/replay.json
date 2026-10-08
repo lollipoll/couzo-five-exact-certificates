@@ -1,0 +1,31 @@
+{
+  "valid": true,
+  "source_sha256": "b251c331b00b5e6e4041b4253c4e46e2afcaa55c291ee6962b890d3c0947f02a",
+  "n": 105,
+  "side": "53953382877053953382877/5000000000000000000000",
+  "adapter": "Translate centers by (-S/2,-S/2); preserve rational t.",
+  "polygon": {
+    "valid_exact": true,
+    "n": 105,
+    "unit_sides_and_right_angles_exact": true,
+    "pairs_checked": 5460,
+    "minimum_wall_gap": "1/2000000000000",
+    "minimum_pair_gap": "1/1000000000000",
+    "container_side": "53953382877053953382877/5000000000000000000000",
+    "method": "Independent polygon-edge Fraction SAT; zero tolerance",
+    "witness_digest": "56699e384010b9243a4170623fc74be8e5e369a1f955b70ea6367950d3acdcc4"
+  },
+  "support": {
+    "valid": true,
+    "n": 105,
+    "pairs_checked": 5460,
+    "acceptance_tolerance": "0",
+    "container_side_rational": "53953382877053953382877/5000000000000000000000",
+    "container_side_decimal": "10.7906765754107906765754",
+    "minimum_wall_clearance_rational": "1/2000000000000",
+    "minimum_wall_clearance_decimal": "5E-13",
+    "minimum_pair_margin_rational": "1/1000000000000",
+    "minimum_pair_margin_decimal": "1E-12",
+    "method": "Exact centre/support radii on four separating axes; Fraction arithmetic"
+  }
+}
